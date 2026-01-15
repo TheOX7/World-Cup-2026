@@ -2,16 +2,6 @@
 
 -- the order of the datasets for creating primary and foreign keys:
 
--- group 1:
--- tournaments
--- confederations
--- teams
--- players
--- managers
--- referees
--- stadiums
--- matches
--- awards
 
 -- group 2:
 -- qualified_teams
