@@ -239,19 +239,19 @@ key_id,stadium_id,stadium_name,city_name,country_name,stadium_capacity,stadium_w
 238,S-238,Estadio Centenario,Montevideo,Uruguay,90000,https://en.wikipedia.org/wiki/Estadio_Centenario,https://en.wikipedia.org/wiki/Montevideo,,,
 239,S-239,Estadio Gran Parque Central,Montevideo,Uruguay,20000,https://en.wikipedia.org/wiki/Estadio_Gran_Parque_Central,https://en.wikipedia.org/wiki/Montevideo,,,
 240,S-240,Estadio Pocitos,Montevideo,Uruguay,10000,https://en.wikipedia.org/wiki/Estadio_Pocitos,https://en.wikipedia.org/wiki/Montevideo,,,
-241,S-241,AT&T Stadium,Arlington,United States,92967,,,32.7473,-97.0945,
-242,S-242,NRG Stadium,Houston,United States,72220,,,29.6847,-95.4109,
-243,S-243,SoFi Stadium,Inglewood,United States,70240,,,33.9535,-118.3392,
+241,S-241,AT&T Stadium,Arlington,United States,92967,,,32.7473,-97.0945,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Dallas-Stadium-2.jpg
+242,S-242,NRG Stadium,Houston,United States,72220,,,29.6847,-95.4109,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Houston-Stadium-2.jpg
+243,S-243,SoFi Stadium,Inglewood,United States,70240,,,33.9535,-118.3392,https://cdn.roadtrips.com/wp-content/uploads/2024/07/LA-Stadium-2.jpg
 244,S-244,MetLife Stadium,East Rutherford,United States,87157,,,40.8135,-74.0745,https://cdn.roadtrips.com/wp-content/uploads/2024/07/NY-Stadium.jpg
-245,S-245,Mercedes-Benz Stadium,Atlanta,United States,75000,,,33.7554,-84.4014,
-246,S-246,Lincoln Financial Field,Philadelphia,United States,69328,,,39.9008,-75.1675,
-247,S-247,Lumen Field,Seattle,United States,69000,,,47.5952,-122.3316,
-248,S-248,Levis Stadium,Santa Clara,United States,70909,,,37.4033,-121.9698,
-249,S-249,Gillette Stadium,Foxborough,United States,70000,,,42.0909,-71.2643,
-250,S-250,Arrowhead Stadium,Kansas City,United States,76640,,,39.0489,-94.4845,
-251,S-251,Hard Rock Stadium,Miami Gardens,United States,67518,,,25.9578,-80.2389,
-252,S-252,BC Place,Vancouver,Canada,54500,,,49.2767,-123.1126,
-253,S-253,BMO Field,Toronto,Canada,45736,,,43.6331,-79.4189,
-254,S-254,Estadio Azteca,Mexico City,Mexico,87523,,,19.3029,-99.1505,
-255,S-255,Estadio Akron,Guadalajara,Mexico,48071,,,20.6817,-103.4631,
-256,S-256,Estadio BBVA,Monterrey,Mexico,53460,,,25.6691,-100.2446,
+245,S-245,Mercedes-Benz Stadium,Atlanta,United States,75000,,,33.7554,-84.4014,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Atlanta-Stadium-2.jpg
+246,S-246,Lincoln Financial Field,Philadelphia,United States,69328,,,39.9008,-75.1675,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Philadelphia-Stadium-2.jpg
+247,S-247,Lumen Field,Seattle,United States,69000,,,47.5952,-122.3316,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Seatle-Stadium-2.jpg
+248,S-248,Levis Stadium,Santa Clara,United States,70909,,,37.4033,-121.9698,https://cdn.roadtrips.com/wp-content/uploads/2024/07/San-Francisco-Stadium-2.jpg
+249,S-249,Gillette Stadium,Foxborough,United States,70000,,,42.0909,-71.2643,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Boston-Stadium-2.jpg
+250,S-250,Arrowhead Stadium,Kansas City,United States,76640,,,39.0489,-94.4845,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Kansas-City-Stadium.jpg
+251,S-251,Hard Rock Stadium,Miami Gardens,United States,67518,,,25.9578,-80.2389,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Miami-Stadium-2.jpg
+252,S-252,BC Place,Vancouver,Canada,54500,,,49.2767,-123.1126,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Vancouver-Stadium-2.jpg
+253,S-253,BMO Field,Toronto,Canada,45736,,,43.6331,-79.4189,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Toronto-Stadium-copy.jpg
+254,S-254,Estadio Azteca,Mexico City,Mexico,87523,,,19.3029,-99.1505,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Mexico-City-Stadium-2-640x512.jpg.webp
+255,S-255,Estadio Akron,Guadalajara,Mexico,48071,,,20.6817,-103.4631,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Guadalajara-Stadium-2.jpg
+256,S-256,Estadio BBVA,Monterrey,Mexico,53460,,,25.6691,-100.2446,https://cdn.roadtrips.com/wp-content/uploads/2024/07/Monterey-Stadium-2.jpg
