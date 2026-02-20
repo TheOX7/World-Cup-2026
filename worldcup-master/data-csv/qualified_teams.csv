@@ -1,626 +1,626 @@
-key_id,tournament_id,tournament_name,team_id,team_name,team_code,count_matches,x_axis,y_axis,performance
-386,WC-2006,2006 FIFA Men's World Cup,T-02,Angola,AGO,3,1,1,group stage
-237,WC-1990,1990 FIFA Men's World Cup,T-82,United Arab Emirates,ARE,3,1,1,group stage
-486,WC-2014,2014 FIFA Men's World Cup,T-08,Bosnia and Herzegovina,BIH,3,1,1,group stage
-3,WC-1930,1930 FIFA Men's World Cup,T-07,Bolivia,BOL,2,1,1,group stage
-45,WC-1950,1950 FIFA Men's World Cup,T-07,Bolivia,BOL,1,1,1,group stage
-256,WC-1994,1994 FIFA Men's World Cup,T-07,Bolivia,BOL,3,1,1,group stage
-199,WC-1986,1986 FIFA Men's World Cup,T-12,Canada,CAN,3,1,1,group stage
-280,WC-1995,1995 FIFA Women's World Cup,T-12,Canada,CAN,3,1,1,group stage
-324,WC-1999,1999 FIFA Women's World Cup,T-12,Canada,CAN,3,1,1,group stage
-373,WC-2003,2003 FIFA Women's World Cup,T-12,Canada,CAN,6,1,4,third-place match
-421,WC-2007,2007 FIFA Women's World Cup,T-12,Canada,CAN,3,1,1,group stage
-468,WC-2011,2011 FIFA Women's World Cup,T-12,Canada,CAN,3,1,1,group stage
-517,WC-2015,2015 FIFA Women's World Cup,T-12,Canada,CAN,5,1,3,quarter-final
-574,WC-2019,2019 FIFA Women's World Cup,T-12,Canada,CAN,4,1,2,round of 16
-599,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,3,1,1,group stage
-243,WC-1991,1991 FIFA Women's World Cup,T-14,China,CHN,4,2,3,quarter-final
-281,WC-1995,1995 FIFA Women's World Cup,T-14,China,CHN,6,2,4,third-place match
-325,WC-1999,1999 FIFA Women's World Cup,T-14,China,CHN,6,2,5,final
-342,WC-2002,2002 FIFA Men's World Cup,T-14,China,CHN,3,2,1,group stage
-374,WC-2003,2003 FIFA Women's World Cup,T-14,China,CHN,4,2,3,quarter-final
-422,WC-2007,2007 FIFA Women's World Cup,T-14,China,CHN,4,2,3,quarter-final
-518,WC-2015,2015 FIFA Women's World Cup,T-14,China,CHN,5,2,3,quarter-final
-576,WC-2019,2019 FIFA Women's World Cup,T-14,China,CHN,4,2,2,round of 16
-400,WC-2006,2006 FIFA Men's World Cup,T-42,Ivory Coast,CIV,3,2,1,group stage
-448,WC-2010,2010 FIFA Men's World Cup,T-42,Ivory Coast,CIV,3,2,1,group stage
-502,WC-2014,2014 FIFA Men's World Cup,T-42,Ivory Coast,CIV,3,2,1,group stage
-525,WC-2015,2015 FIFA Women's World Cup,T-42,Ivory Coast,CIV,3,2,1,group stage
-153,WC-1974,1974 FIFA Men's World Cup,T-88,Zaire,COD,3,3,1,group stage
-392,WC-2006,2006 FIFA Men's World Cup,T-20,Czech Republic,CZE,3,2,1,group stage
-143,WC-1974,1974 FIFA Men's World Cup,T-24,East Germany,DDR,6,3,1,second group stage
-181,WC-1982,1982 FIFA Men's World Cup,T-35,Honduras,HND,3,2,1,group stage
-446,WC-2010,2010 FIFA Men's World Cup,T-35,Honduras,HND,3,2,1,group stage
-499,WC-2014,2014 FIFA Men's World Cup,T-35,Honduras,HND,3,2,1,group stage
-144,WC-1974,1974 FIFA Men's World Cup,T-34,Haiti,HTI,3,3,1,group stage
-159,WC-1978,1978 FIFA Men's World Cup,T-38,Iran,IRN,3,3,1,group stage
-303,WC-1998,1998 FIFA Men's World Cup,T-38,Iran,IRN,3,3,1,group stage
-398,WC-2006,2006 FIFA Men's World Cup,T-38,Iran,IRN,3,3,1,group stage
-500,WC-2014,2014 FIFA Men's World Cup,T-38,Iran,IRN,3,3,1,group stage
-551,WC-2018,2018 FIFA Men's World Cup,T-38,Iran,IRN,3,3,1,group stage
-608,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,3,3,1,group stage
-204,WC-1986,1986 FIFA Men's World Cup,T-39,Iraq,IRQ,3,4,1,group stage
-550,WC-2018,2018 FIFA Men's World Cup,T-37,Iceland,ISL,3,4,1,group stage
-128,WC-1970,1970 FIFA Men's World Cup,T-40,Israel,ISR,3,5,1,group stage
-305,WC-1998,1998 FIFA Men's World Cup,T-43,Jamaica,JAM,3,4,1,group stage
-581,WC-2019,2019 FIFA Women's World Cup,T-43,Jamaica,JAM,3,4,1,group stage
-184,WC-1982,1982 FIFA Men's World Cup,T-45,Kuwait,KWT,3,5,1,group stage
-185,WC-1982,1982 FIFA Men's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-249,WC-1991,1991 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-428,WC-2007,2007 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-452,WC-2010,2010 FIFA Men's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-476,WC-2011,2011 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-529,WC-2015,2015 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-584,WC-2019,2019 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage
-556,WC-2018,2018 FIFA Men's World Cup,T-54,Panama,PAN,3,5,1,group stage
-615,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,3,6,1,group stage
-408,WC-2006,2006 FIFA Men's World Cup,T-67,Serbia and Montenegro,SCG,3,6,1,group stage
-67,WC-1954,1954 FIFA Men's World Cup,T-64,Scotland,SCO,2,7,1,group stage
-84,WC-1958,1958 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-148,WC-1974,1974 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-165,WC-1978,1978 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-189,WC-1982,1982 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-212,WC-1986,1986 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-232,WC-1990,1990 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-315,WC-1998,1998 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-587,WC-2019,2019 FIFA Women's World Cup,T-64,Scotland,SCO,3,7,1,group stage
-126,WC-1970,1970 FIFA Men's World Cup,T-27,El Salvador,SLV,3,6,1,group stage
-178,WC-1982,1982 FIFA Men's World Cup,T-27,El Salvador,SLV,3,6,1,group stage
-457,WC-2010,2010 FIFA Men's World Cup,T-66,Serbia,SRB,3,8,1,group stage
-563,WC-2018,2018 FIFA Men's World Cup,T-66,Serbia,SRB,3,8,1,group stage
-618,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,3,8,1,group stage
-361,WC-2002,2002 FIFA Men's World Cup,T-69,Slovenia,SVN,3,9,1,group stage
-459,WC-2010,2010 FIFA Men's World Cup,T-69,Slovenia,SVN,3,9,1,group stage
-413,WC-2006,2006 FIFA Men's World Cup,T-77,Togo,TGO,3,4,1,group stage
-414,WC-2006,2006 FIFA Men's World Cup,T-78,Trinidad and Tobago,TTO,3,7,1,group stage
-168,WC-1978,1978 FIFA Men's World Cup,T-79,Tunisia,TUN,3,5,1,group stage
-319,WC-1998,1998 FIFA Men's World Cup,T-79,Tunisia,TUN,3,5,1,group stage
-366,WC-2002,2002 FIFA Men's World Cup,T-79,Tunisia,TUN,3,5,1,group stage
-415,WC-2006,2006 FIFA Men's World Cup,T-79,Tunisia,TUN,3,5,1,group stage
-568,WC-2018,2018 FIFA Men's World Cup,T-79,Tunisia,TUN,3,5,1,group stage
-622,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,3,5,1,group stage
-316,WC-1998,1998 FIFA Men's World Cup,T-70,South Africa,ZAF,3,6,1,group stage
-362,WC-2002,2002 FIFA Men's World Cup,T-70,South Africa,ZAF,3,6,1,group stage
-460,WC-2010,2010 FIFA Men's World Cup,T-70,South Africa,ZAF,3,6,1,group stage
-588,WC-2019,2019 FIFA Women's World Cup,T-70,South Africa,ZAF,3,6,1,group stage
-139,WC-1974,1974 FIFA Men's World Cup,T-04,Australia,AUS,3,7,1,group stage
-278,WC-1995,1995 FIFA Women's World Cup,T-04,Australia,AUS,3,7,1,group stage
-322,WC-1999,1999 FIFA Women's World Cup,T-04,Australia,AUS,3,7,1,group stage
-371,WC-2003,2003 FIFA Women's World Cup,T-04,Australia,AUS,3,7,1,group stage
-388,WC-2006,2006 FIFA Men's World Cup,T-04,Australia,AUS,4,7,2,round of 16
-419,WC-2007,2007 FIFA Women's World Cup,T-04,Australia,AUS,4,7,3,quarter-final
-436,WC-2010,2010 FIFA Men's World Cup,T-04,Australia,AUS,3,7,1,group stage
-466,WC-2011,2011 FIFA Women's World Cup,T-04,Australia,AUS,4,7,3,quarter-final
-484,WC-2014,2014 FIFA Men's World Cup,T-04,Australia,AUS,3,7,1,group stage
-514,WC-2015,2015 FIFA Women's World Cup,T-04,Australia,AUS,5,7,3,quarter-final
-539,WC-2018,2018 FIFA Men's World Cup,T-04,Australia,AUS,3,7,1,group stage
-571,WC-2019,2019 FIFA Women's World Cup,T-04,Australia,AUS,4,7,2,round of 16
-595,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,4,7,2,round of 16
-170,WC-1982,1982 FIFA Men's World Cup,T-01,Algeria,DZA,3,7,1,group stage
-194,WC-1986,1986 FIFA Men's World Cup,T-01,Algeria,DZA,3,7,1,group stage
-434,WC-2010,2010 FIFA Men's World Cup,T-01,Algeria,DZA,3,7,1,group stage
-482,WC-2014,2014 FIFA Men's World Cup,T-01,Algeria,DZA,4,7,2,round of 16
-346,WC-2002,2002 FIFA Men's World Cup,T-25,Ecuador,ECU,3,2,1,group stage
-393,WC-2006,2006 FIFA Men's World Cup,T-25,Ecuador,ECU,4,2,2,round of 16
-493,WC-2014,2014 FIFA Men's World Cup,T-25,Ecuador,ECU,3,2,1,group stage
-521,WC-2015,2015 FIFA Women's World Cup,T-25,Ecuador,ECU,3,2,1,group stage
-603,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,3,2,1,group stage
-19,WC-1934,1934 FIFA Men's World Cup,T-26,Egypt,EGY,1,8,2,round of 16
-226,WC-1990,1990 FIFA Men's World Cup,T-26,Egypt,EGY,3,8,1,group stage
-546,WC-2018,2018 FIFA Men's World Cup,T-26,Egypt,EGY,3,8,1,group stage
-262,WC-1994,1994 FIFA Men's World Cup,T-33,Greece,GRC,3,10,1,group stage
-445,WC-2010,2010 FIFA Men's World Cup,T-33,Greece,GRC,3,10,1,group stage
-498,WC-2014,2014 FIFA Men's World Cup,T-33,Greece,GRC,4,10,2,round of 16
-34,WC-1938,1938 FIFA Men's World Cup,T-23,Dutch East Indies,IDN,1,8,2,round of 16
-248,WC-1991,1991 FIFA Women's World Cup,T-44,Japan,JPN,3,8,1,group stage
-285,WC-1995,1995 FIFA Women's World Cup,T-44,Japan,JPN,4,8,3,quarter-final
-306,WC-1998,1998 FIFA Men's World Cup,T-44,Japan,JPN,3,8,1,group stage
-330,WC-1999,1999 FIFA Women's World Cup,T-44,Japan,JPN,3,8,1,group stage
-351,WC-2002,2002 FIFA Men's World Cup,T-44,Japan,JPN,4,8,2,round of 16
-378,WC-2003,2003 FIFA Women's World Cup,T-44,Japan,JPN,3,8,1,group stage
-401,WC-2006,2006 FIFA Men's World Cup,T-44,Japan,JPN,3,8,1,group stage
-427,WC-2007,2007 FIFA Women's World Cup,T-44,Japan,JPN,3,8,1,group stage
-449,WC-2010,2010 FIFA Men's World Cup,T-44,Japan,JPN,4,8,2,round of 16
-474,WC-2011,2011 FIFA Women's World Cup,T-44,Japan,JPN,6,8,5,final
-503,WC-2014,2014 FIFA Men's World Cup,T-44,Japan,JPN,3,8,1,group stage
-526,WC-2015,2015 FIFA Women's World Cup,T-44,Japan,JPN,7,8,5,final
-552,WC-2018,2018 FIFA Men's World Cup,T-44,Japan,JPN,4,8,2,round of 16
-582,WC-2019,2019 FIFA Women's World Cup,T-44,Japan,JPN,4,8,2,round of 16
-609,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,4,8,2,round of 16
-250,WC-1991,1991 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-267,WC-1994,1994 FIFA Men's World Cup,T-50,Nigeria,NGA,4,9,2,round of 16
-286,WC-1995,1995 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-310,WC-1998,1998 FIFA Men's World Cup,T-50,Nigeria,NGA,4,9,2,round of 16
-332,WC-1999,1999 FIFA Women's World Cup,T-50,Nigeria,NGA,4,9,3,quarter-final
-353,WC-2002,2002 FIFA Men's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-379,WC-2003,2003 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-429,WC-2007,2007 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-453,WC-2010,2010 FIFA Men's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-477,WC-2011,2011 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-506,WC-2014,2014 FIFA Men's World Cup,T-50,Nigeria,NGA,4,9,2,round of 16
-530,WC-2015,2015 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-555,WC-2018,2018 FIFA Men's World Cup,T-50,Nigeria,NGA,3,9,1,group stage
-585,WC-2019,2019 FIFA Women's World Cup,T-50,Nigeria,NGA,4,9,2,round of 16
-40,WC-1938,1938 FIFA Men's World Cup,T-53,Norway,NOR,1,11,2,round of 16
-251,WC-1991,1991 FIFA Women's World Cup,T-53,Norway,NOR,6,11,5,final
-268,WC-1994,1994 FIFA Men's World Cup,T-53,Norway,NOR,3,11,1,group stage
-287,WC-1995,1995 FIFA Women's World Cup,T-53,Norway,NOR,6,11,5,final
-311,WC-1998,1998 FIFA Men's World Cup,T-53,Norway,NOR,4,11,2,round of 16
-334,WC-1999,1999 FIFA Women's World Cup,T-53,Norway,NOR,6,11,4,third-place match
-381,WC-2003,2003 FIFA Women's World Cup,T-53,Norway,NOR,4,11,3,quarter-final
-431,WC-2007,2007 FIFA Women's World Cup,T-53,Norway,NOR,6,11,4,third-place match
-479,WC-2011,2011 FIFA Women's World Cup,T-53,Norway,NOR,3,11,1,group stage
-531,WC-2015,2015 FIFA Women's World Cup,T-53,Norway,NOR,4,11,2,round of 16
-586,WC-2019,2019 FIFA Women's World Cup,T-53,Norway,NOR,5,11,3,quarter-final
-272,WC-1994,1994 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,4,9,2,round of 16
-314,WC-1998,1998 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,9,1,group stage
-359,WC-2002,2002 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,9,1,group stage
-407,WC-2006,2006 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,9,1,group stage
-561,WC-2018,2018 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,9,1,group stage
-616,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,9,1,group stage
-458,WC-2010,2010 FIFA Men's World Cup,T-68,Slovakia,SVK,4,12,2,round of 16
-28,WC-1934,1934 FIFA Men's World Cup,T-75,Switzerland,CHE,2,13,3,quarter-finals
-44,WC-1938,1938 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,3,quarter-finals
-54,WC-1950,1950 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage
-69,WC-1954,1954 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,3,quarter-finals
-102,WC-1962,1962 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage
-119,WC-1966,1966 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage
-276,WC-1994,1994 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16
-412,WC-2006,2006 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16
-463,WC-2010,2010 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage
-511,WC-2014,2014 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16
-535,WC-2015,2015 FIFA Women's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16
-567,WC-2018,2018 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16
-621,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16
-175,WC-1982,1982 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-222,WC-1990,1990 FIFA Men's World Cup,T-11,Cameroon,CMR,5,10,3,quarter-finals
-259,WC-1994,1994 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-295,WC-1998,1998 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-341,WC-2002,2002 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-438,WC-2010,2010 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-488,WC-2014,2014 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-516,WC-2015,2015 FIFA Women's World Cup,T-11,Cameroon,CMR,4,10,2,round of 16
-573,WC-2019,2019 FIFA Women's World Cup,T-11,Cameroon,CMR,4,10,2,round of 16
-598,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10,1,group stage
-94,WC-1962,1962 FIFA Men's World Cup,T-16,Colombia,COL,3,3,1,group stage
-223,WC-1990,1990 FIFA Men's World Cup,T-16,Colombia,COL,4,3,2,round of 16
-260,WC-1994,1994 FIFA Men's World Cup,T-16,Colombia,COL,3,3,1,group stage
-297,WC-1998,1998 FIFA Men's World Cup,T-16,Colombia,COL,3,3,1,group stage
-469,WC-2011,2011 FIFA Women's World Cup,T-16,Colombia,COL,3,3,1,group stage
-490,WC-2014,2014 FIFA Men's World Cup,T-16,Colombia,COL,5,3,3,quarter-finals
-519,WC-2015,2015 FIFA Women's World Cup,T-16,Colombia,COL,4,3,2,round of 16
-542,WC-2018,2018 FIFA Men's World Cup,T-16,Colombia,COL,4,3,2,round of 16
-224,WC-1990,1990 FIFA Men's World Cup,T-17,Costa Rica,CRI,4,8,2,round of 16
-343,WC-2002,2002 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,8,1,group stage
-390,WC-2006,2006 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,8,1,group stage
-491,WC-2014,2014 FIFA Men's World Cup,T-17,Costa Rica,CRI,5,8,3,quarter-finals
-520,WC-2015,2015 FIFA Women's World Cup,T-17,Costa Rica,CRI,3,8,1,group stage
-543,WC-2018,2018 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,8,1,group stage
-600,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,8,1,group stage
-32,WC-1938,1938 FIFA Men's World Cup,T-19,Cuba,CUB,3,9,3,quarter-finals
-200,WC-1986,1986 FIFA Men's World Cup,T-22,Denmark,DNK,4,14,2,round of 16
-245,WC-1991,1991 FIFA Women's World Cup,T-22,Denmark,DNK,4,14,3,quarter-final
-282,WC-1995,1995 FIFA Women's World Cup,T-22,Denmark,DNK,4,14,3,quarter-final
-299,WC-1998,1998 FIFA Men's World Cup,T-22,Denmark,DNK,5,14,3,quarter-finals
-326,WC-1999,1999 FIFA Women's World Cup,T-22,Denmark,DNK,3,14,1,group stage
-345,WC-2002,2002 FIFA Men's World Cup,T-22,Denmark,DNK,4,14,2,round of 16
-423,WC-2007,2007 FIFA Women's World Cup,T-22,Denmark,DNK,3,14,1,group stage
-440,WC-2010,2010 FIFA Men's World Cup,T-22,Denmark,DNK,3,14,1,group stage
-545,WC-2018,2018 FIFA Men's World Cup,T-22,Denmark,DNK,4,14,2,round of 16
-602,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,3,14,1,group stage
-328,WC-1999,1999 FIFA Women's World Cup,T-32,Ghana,GHA,3,11,1,group stage
-377,WC-2003,2003 FIFA Women's World Cup,T-32,Ghana,GHA,3,11,1,group stage
-397,WC-2006,2006 FIFA Men's World Cup,T-32,Ghana,GHA,4,11,2,round of 16
-426,WC-2007,2007 FIFA Women's World Cup,T-32,Ghana,GHA,3,11,1,group stage
-444,WC-2010,2010 FIFA Men's World Cup,T-32,Ghana,GHA,5,11,3,quarter-finals
-497,WC-2014,2014 FIFA Men's World Cup,T-32,Ghana,GHA,3,11,1,group stage
-607,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,3,11,1,group stage
-230,WC-1990,1990 FIFA Men's World Cup,T-60,Republic of Ireland,IRL,5,15,3,quarter-finals
-269,WC-1994,1994 FIFA Men's World Cup,T-60,Republic of Ireland,IRL,4,15,2,round of 16
-357,WC-2002,2002 FIFA Men's World Cup,T-60,Republic of Ireland,IRL,4,15,2,round of 16
-7,WC-1930,1930 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-50,WC-1950,1950 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-66,WC-1954,1954 FIFA Men's World Cup,T-46,Mexico,MEX,2,10,1,group stage
-81,WC-1958,1958 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-99,WC-1962,1962 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-114,WC-1966,1966 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-130,WC-1970,1970 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,3,quarter-finals
-161,WC-1978,1978 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-206,WC-1986,1986 FIFA Men's World Cup,T-46,Mexico,MEX,5,10,3,quarter-finals
-264,WC-1994,1994 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-307,WC-1998,1998 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-331,WC-1999,1999 FIFA Women's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-352,WC-2002,2002 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-402,WC-2006,2006 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-450,WC-2010,2010 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-475,WC-2011,2011 FIFA Women's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-504,WC-2014,2014 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-527,WC-2015,2015 FIFA Women's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-553,WC-2018,2018 FIFA Men's World Cup,T-46,Mexico,MEX,4,10,2,round of 16
-610,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,3,10,1,group stage
-82,WC-1958,1958 FIFA Men's World Cup,T-52,Northern Ireland,NIR,5,16,3,quarter-finals
-186,WC-1982,1982 FIFA Men's World Cup,T-52,Northern Ireland,NIR,5,16,1,second group stage
-208,WC-1986,1986 FIFA Men's World Cup,T-52,Northern Ireland,NIR,3,16,1,group stage
-9,WC-1930,1930 FIFA Men's World Cup,T-56,Peru,PER,2,4,1,group stage
-132,WC-1970,1970 FIFA Men's World Cup,T-56,Peru,PER,4,4,3,quarter-finals
-163,WC-1978,1978 FIFA Men's World Cup,T-56,Peru,PER,6,4,1,second group stage
-187,WC-1982,1982 FIFA Men's World Cup,T-56,Peru,PER,3,4,1,group stage
-557,WC-2018,2018 FIFA Men's World Cup,T-56,Peru,PER,3,4,1,group stage
-115,WC-1966,1966 FIFA Men's World Cup,T-51,North Korea,PRK,4,10,3,quarter-finals
-333,WC-1999,1999 FIFA Women's World Cup,T-51,North Korea,PRK,3,10,1,group stage
-380,WC-2003,2003 FIFA Women's World Cup,T-51,North Korea,PRK,3,10,1,group stage
-430,WC-2007,2007 FIFA Women's World Cup,T-51,North Korea,PRK,4,10,3,quarter-final
-454,WC-2010,2010 FIFA Men's World Cup,T-51,North Korea,PRK,3,10,1,group stage
-478,WC-2011,2011 FIFA Women's World Cup,T-51,North Korea,PRK,3,10,1,group stage
-8,WC-1930,1930 FIFA Men's World Cup,T-55,Paraguay,PRY,2,5,1,group stage
-51,WC-1950,1950 FIFA Men's World Cup,T-55,Paraguay,PRY,2,5,1,group stage
-83,WC-1958,1958 FIFA Men's World Cup,T-55,Paraguay,PRY,3,5,1,group stage
-209,WC-1986,1986 FIFA Men's World Cup,T-55,Paraguay,PRY,4,5,2,round of 16
-312,WC-1998,1998 FIFA Men's World Cup,T-55,Paraguay,PRY,4,5,2,round of 16
-354,WC-2002,2002 FIFA Men's World Cup,T-55,Paraguay,PRY,4,5,2,round of 16
-404,WC-2006,2006 FIFA Men's World Cup,T-55,Paraguay,PRY,3,5,1,group stage
-455,WC-2010,2010 FIFA Men's World Cup,T-55,Paraguay,PRY,5,5,3,quarter-finals
-10,WC-1930,1930 FIFA Men's World Cup,T-61,Romania,ROU,2,17,1,group stage
-25,WC-1934,1934 FIFA Men's World Cup,T-61,Romania,ROU,1,17,2,round of 16
-42,WC-1938,1938 FIFA Men's World Cup,T-61,Romania,ROU,2,17,2,round of 16
-133,WC-1970,1970 FIFA Men's World Cup,T-61,Romania,ROU,3,17,1,group stage
-231,WC-1990,1990 FIFA Men's World Cup,T-61,Romania,ROU,4,17,2,round of 16
-270,WC-1994,1994 FIFA Men's World Cup,T-61,Romania,ROU,5,17,3,quarter-finals
-313,WC-1998,1998 FIFA Men's World Cup,T-61,Romania,ROU,4,17,2,round of 16
-271,WC-1994,1994 FIFA Men's World Cup,T-62,Russia,RUS,3,18,1,group stage
-335,WC-1999,1999 FIFA Women's World Cup,T-62,Russia,RUS,4,18,3,quarter-final
-358,WC-2002,2002 FIFA Men's World Cup,T-62,Russia,RUS,3,18,1,group stage
-382,WC-2003,2003 FIFA Women's World Cup,T-62,Russia,RUS,4,18,3,quarter-final
-508,WC-2014,2014 FIFA Men's World Cup,T-62,Russia,RUS,3,18,1,group stage
-560,WC-2018,2018 FIFA Men's World Cup,T-62,Russia,RUS,5,18,3,quarter-finals
-360,WC-2002,2002 FIFA Men's World Cup,T-65,Senegal,SEN,5,12,3,quarter-finals
-562,WC-2018,2018 FIFA Men's World Cup,T-65,Senegal,SEN,3,12,1,group stage
-617,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,4,12,2,round of 16
-416,WC-2006,2006 FIFA Men's World Cup,T-81,Ukraine,UKR,5,19,3,quarter-finals
-87,WC-1958,1958 FIFA Men's World Cup,T-85,Wales,WAL,5,20,3,quarter-finals
-625,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,3,20,1,group stage
-15,WC-1934,1934 FIFA Men's World Cup,T-05,Austria,AUT,4,21,4,third-place match
-58,WC-1954,1954 FIFA Men's World Cup,T-05,Austria,AUT,5,21,4,third-place match
-75,WC-1958,1958 FIFA Men's World Cup,T-05,Austria,AUT,3,21,1,group stage
-155,WC-1978,1978 FIFA Men's World Cup,T-05,Austria,AUT,6,21,1,second group stage
-172,WC-1982,1982 FIFA Men's World Cup,T-05,Austria,AUT,5,21,1,second group stage
-219,WC-1990,1990 FIFA Men's World Cup,T-05,Austria,AUT,3,21,1,group stage
-291,WC-1998,1998 FIFA Men's World Cup,T-05,Austria,AUT,3,21,1,group stage
-2,WC-1930,1930 FIFA Men's World Cup,T-06,Belgium,BEL,2,22,1,group stage
-16,WC-1934,1934 FIFA Men's World Cup,T-06,Belgium,BEL,1,22,2,round of 16
-30,WC-1938,1938 FIFA Men's World Cup,T-06,Belgium,BEL,1,22,2,round of 16
-59,WC-1954,1954 FIFA Men's World Cup,T-06,Belgium,BEL,2,22,1,group stage
-122,WC-1970,1970 FIFA Men's World Cup,T-06,Belgium,BEL,3,22,1,group stage
-173,WC-1982,1982 FIFA Men's World Cup,T-06,Belgium,BEL,5,22,1,second group stage
-196,WC-1986,1986 FIFA Men's World Cup,T-06,Belgium,BEL,7,22,4,third-place match
-220,WC-1990,1990 FIFA Men's World Cup,T-06,Belgium,BEL,4,22,2,round of 16
-255,WC-1994,1994 FIFA Men's World Cup,T-06,Belgium,BEL,4,22,2,round of 16
-292,WC-1998,1998 FIFA Men's World Cup,T-06,Belgium,BEL,3,22,1,group stage
-339,WC-2002,2002 FIFA Men's World Cup,T-06,Belgium,BEL,4,22,2,round of 16
-485,WC-2014,2014 FIFA Men's World Cup,T-06,Belgium,BEL,5,22,3,quarter-finals
-540,WC-2018,2018 FIFA Men's World Cup,T-06,Belgium,BEL,7,22,4,third-place match
-596,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,3,22,1,group stage
-92,WC-1962,1962 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage
-108,WC-1966,1966 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage
-124,WC-1970,1970 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage
-141,WC-1974,1974 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage
-198,WC-1986,1986 FIFA Men's World Cup,T-10,Bulgaria,BGR,4,23,2,round of 16
-258,WC-1994,1994 FIFA Men's World Cup,T-10,Bulgaria,BGR,7,23,4,third-place match
-294,WC-1998,1998 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage
-5,WC-1930,1930 FIFA Men's World Cup,T-13,Chile,CHL,3,6,1,group stage
-47,WC-1950,1950 FIFA Men's World Cup,T-13,Chile,CHL,3,6,1,group stage
-93,WC-1962,1962 FIFA Men's World Cup,T-13,Chile,CHL,6,6,4,third-place match
-109,WC-1966,1966 FIFA Men's World Cup,T-13,Chile,CHL,3,6,1,group stage
-142,WC-1974,1974 FIFA Men's World Cup,T-13,Chile,CHL,3,6,1,group stage
-176,WC-1982,1982 FIFA Men's World Cup,T-13,Chile,CHL,3,6,1,group stage
-296,WC-1998,1998 FIFA Men's World Cup,T-13,Chile,CHL,4,6,2,round of 16
-439,WC-2010,2010 FIFA Men's World Cup,T-13,Chile,CHL,4,6,2,round of 16
-489,WC-2014,2014 FIFA Men's World Cup,T-13,Chile,CHL,4,6,2,round of 16
-575,WC-2019,2019 FIFA Women's World Cup,T-13,Chile,CHL,3,6,1,group stage
-68,WC-1954,1954 FIFA Men's World Cup,T-71,South Korea,KOR,2,11,1,group stage
-213,WC-1986,1986 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-233,WC-1990,1990 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-273,WC-1994,1994 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-317,WC-1998,1998 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-363,WC-2002,2002 FIFA Men's World Cup,T-71,South Korea,KOR,7,11,4,third-place match
-383,WC-2003,2003 FIFA Women's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-409,WC-2006,2006 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-461,WC-2010,2010 FIFA Men's World Cup,T-71,South Korea,KOR,4,11,2,round of 16
-509,WC-2014,2014 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-532,WC-2015,2015 FIFA Women's World Cup,T-71,South Korea,KOR,4,11,2,round of 16
-564,WC-2018,2018 FIFA Men's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-589,WC-2019,2019 FIFA Women's World Cup,T-71,South Korea,KOR,3,11,1,group stage
-619,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,4,11,2,round of 16
-131,WC-1970,1970 FIFA Men's World Cup,T-47,Morocco,MAR,3,13,1,group stage
-207,WC-1986,1986 FIFA Men's World Cup,T-47,Morocco,MAR,4,13,2,round of 16
-265,WC-1994,1994 FIFA Men's World Cup,T-47,Morocco,MAR,3,13,1,group stage
-308,WC-1998,1998 FIFA Men's World Cup,T-47,Morocco,MAR,3,13,1,group stage
-554,WC-2018,2018 FIFA Men's World Cup,T-47,Morocco,MAR,3,13,1,group stage
-611,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,7,13,4,third-place match
-41,WC-1938,1938 FIFA Men's World Cup,T-57,Poland,POL,1,24,2,round of 16
-147,WC-1974,1974 FIFA Men's World Cup,T-57,Poland,POL,7,24,4,third-place match
-164,WC-1978,1978 FIFA Men's World Cup,T-57,Poland,POL,6,24,1,second group stage
-188,WC-1982,1982 FIFA Men's World Cup,T-57,Poland,POL,7,24,4,third-place match
-210,WC-1986,1986 FIFA Men's World Cup,T-57,Poland,POL,4,24,2,round of 16
-355,WC-2002,2002 FIFA Men's World Cup,T-57,Poland,POL,3,24,1,group stage
-405,WC-2006,2006 FIFA Men's World Cup,T-57,Poland,POL,3,24,1,group stage
-558,WC-2018,2018 FIFA Men's World Cup,T-57,Poland,POL,3,24,1,group stage
-613,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,4,24,2,round of 16
-116,WC-1966,1966 FIFA Men's World Cup,T-58,Portugal,PRT,6,25,4,third-place match
-211,WC-1986,1986 FIFA Men's World Cup,T-58,Portugal,PRT,3,25,1,group stage
-356,WC-2002,2002 FIFA Men's World Cup,T-58,Portugal,PRT,3,25,1,group stage
-406,WC-2006,2006 FIFA Men's World Cup,T-58,Portugal,PRT,7,25,4,third-place match
-456,WC-2010,2010 FIFA Men's World Cup,T-58,Portugal,PRT,4,25,2,round of 16
-507,WC-2014,2014 FIFA Men's World Cup,T-58,Portugal,PRT,3,25,1,group stage
-559,WC-2018,2018 FIFA Men's World Cup,T-58,Portugal,PRT,4,25,2,round of 16
-614,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,5,25,3,quarter-finals
-85,WC-1958,1958 FIFA Men's World Cup,T-72,Soviet Union,SUN,5,26,3,quarter-finals
-100,WC-1962,1962 FIFA Men's World Cup,T-72,Soviet Union,SUN,4,26,3,quarter-finals
-117,WC-1966,1966 FIFA Men's World Cup,T-72,Soviet Union,SUN,6,26,4,third-place match
-134,WC-1970,1970 FIFA Men's World Cup,T-72,Soviet Union,SUN,4,26,3,quarter-finals
-190,WC-1982,1982 FIFA Men's World Cup,T-72,Soviet Union,SUN,5,26,1,second group stage
-214,WC-1986,1986 FIFA Men's World Cup,T-72,Soviet Union,SUN,4,26,2,round of 16
-234,WC-1990,1990 FIFA Men's World Cup,T-72,Soviet Union,SUN,3,26,1,group stage
-70,WC-1954,1954 FIFA Men's World Cup,T-80,Turkey,TUR,3,27,1,group stage
-367,WC-2002,2002 FIFA Men's World Cup,T-80,Turkey,TUR,7,27,4,third-place match
-11,WC-1930,1930 FIFA Men's World Cup,T-83,United States,USA,3,11,4,semi-finals
-29,WC-1934,1934 FIFA Men's World Cup,T-83,United States,USA,1,11,2,round of 16
-55,WC-1950,1950 FIFA Men's World Cup,T-83,United States,USA,3,11,1,group stage
-238,WC-1990,1990 FIFA Men's World Cup,T-83,United States,USA,3,11,1,group stage
-253,WC-1991,1991 FIFA Women's World Cup,T-83,United States,USA,6,11,5,final
-277,WC-1994,1994 FIFA Men's World Cup,T-83,United States,USA,4,11,2,round of 16
-289,WC-1995,1995 FIFA Women's World Cup,T-83,United States,USA,6,11,4,third-place match
-320,WC-1998,1998 FIFA Men's World Cup,T-83,United States,USA,3,11,1,group stage
-337,WC-1999,1999 FIFA Women's World Cup,T-83,United States,USA,6,11,5,final
-368,WC-2002,2002 FIFA Men's World Cup,T-83,United States,USA,5,11,3,quarter-finals
-385,WC-2003,2003 FIFA Women's World Cup,T-83,United States,USA,6,11,4,third-place match
-417,WC-2006,2006 FIFA Men's World Cup,T-83,United States,USA,3,11,1,group stage
-433,WC-2007,2007 FIFA Women's World Cup,T-83,United States,USA,6,11,4,third-place match
-464,WC-2010,2010 FIFA Men's World Cup,T-83,United States,USA,4,11,2,round of 16
-481,WC-2011,2011 FIFA Women's World Cup,T-83,United States,USA,6,11,5,final
-512,WC-2014,2014 FIFA Men's World Cup,T-83,United States,USA,4,11,2,round of 16
-537,WC-2015,2015 FIFA Women's World Cup,T-83,United States,USA,7,11,5,final
-593,WC-2019,2019 FIFA Women's World Cup,T-83,United States,USA,7,11,5,final
-623,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,4,11,2,round of 16
-13,WC-1930,1930 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,4,semi-finals
-57,WC-1950,1950 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,1,group stage
-73,WC-1954,1954 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,3,quarter-finals
-89,WC-1958,1958 FIFA Men's World Cup,T-87,Yugoslavia,YUG,4,28,3,quarter-finals
-105,WC-1962,1962 FIFA Men's World Cup,T-87,Yugoslavia,YUG,6,28,4,third-place match
-152,WC-1974,1974 FIFA Men's World Cup,T-87,Yugoslavia,YUG,6,28,1,second group stage
-193,WC-1982,1982 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,1,group stage
-241,WC-1990,1990 FIFA Men's World Cup,T-87,Yugoslavia,YUG,5,28,3,quarter-finals
-321,WC-1998,1998 FIFA Men's World Cup,T-87,Yugoslavia,YUG,4,28,2,round of 16
-18,WC-1934,1934 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,4,29,5,final
-33,WC-1938,1938 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,3,29,3,quarter-finals
-61,WC-1954,1954 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,2,29,1,group stage
-77,WC-1958,1958 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,4,29,1,group stage
-95,WC-1962,1962 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,6,29,5,final
-125,WC-1970,1970 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,3,29,1,group stage
-177,WC-1982,1982 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,3,29,1,group stage
-225,WC-1990,1990 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,5,29,3,quarter-finals
-298,WC-1998,1998 FIFA Men's World Cup,T-18,Croatia,HRV,7,30,4,third-place match
-344,WC-2002,2002 FIFA Men's World Cup,T-18,Croatia,HRV,3,30,1,group stage
-391,WC-2006,2006 FIFA Men's World Cup,T-18,Croatia,HRV,3,30,1,group stage
-492,WC-2014,2014 FIFA Men's World Cup,T-18,Croatia,HRV,3,30,1,group stage
-544,WC-2018,2018 FIFA Men's World Cup,T-18,Croatia,HRV,7,30,5,final
-601,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,7,30,4,third-place match
-22,WC-1934,1934 FIFA Men's World Cup,T-36,Hungary,HUN,2,31,3,quarter-finals
-37,WC-1938,1938 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,5,final
-64,WC-1954,1954 FIFA Men's World Cup,T-36,Hungary,HUN,5,31,5,final
-80,WC-1958,1958 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,1,group stage
-97,WC-1962,1962 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,3,quarter-finals
-112,WC-1966,1966 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,3,quarter-finals
-158,WC-1978,1978 FIFA Men's World Cup,T-36,Hungary,HUN,3,31,1,group stage
-182,WC-1982,1982 FIFA Men's World Cup,T-36,Hungary,HUN,3,31,1,group stage
-203,WC-1986,1986 FIFA Men's World Cup,T-36,Hungary,HUN,3,31,1,group stage
-24,WC-1934,1934 FIFA Men's World Cup,T-48,Netherlands,NLD,1,32,2,round of 16
-39,WC-1938,1938 FIFA Men's World Cup,T-48,Netherlands,NLD,1,32,2,round of 16
-146,WC-1974,1974 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,5,final
-162,WC-1978,1978 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,5,final
-229,WC-1990,1990 FIFA Men's World Cup,T-48,Netherlands,NLD,4,32,2,round of 16
-266,WC-1994,1994 FIFA Men's World Cup,T-48,Netherlands,NLD,5,32,3,quarter-finals
-309,WC-1998,1998 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,4,third-place match
-403,WC-2006,2006 FIFA Men's World Cup,T-48,Netherlands,NLD,4,32,2,round of 16
-451,WC-2010,2010 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,5,final
-505,WC-2014,2014 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,4,third-place match
-528,WC-2015,2015 FIFA Women's World Cup,T-48,Netherlands,NLD,4,32,2,round of 16
-583,WC-2019,2019 FIFA Women's World Cup,T-48,Netherlands,NLD,7,32,5,final
-612,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,5,32,3,quarter-finals
-27,WC-1934,1934 FIFA Men's World Cup,T-74,Sweden,SWE,2,33,3,quarter-finals
-43,WC-1938,1938 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,4,third-place match
-53,WC-1950,1950 FIFA Men's World Cup,T-74,Sweden,SWE,5,33,5,final round
-86,WC-1958,1958 FIFA Men's World Cup,T-74,Sweden,SWE,6,33,5,final
-135,WC-1970,1970 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,1,group stage
-149,WC-1974,1974 FIFA Men's World Cup,T-74,Sweden,SWE,6,33,1,second group stage
-167,WC-1978,1978 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,1,group stage
-236,WC-1990,1990 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,1,group stage
-252,WC-1991,1991 FIFA Women's World Cup,T-74,Sweden,SWE,6,33,4,third-place match
-275,WC-1994,1994 FIFA Men's World Cup,T-74,Sweden,SWE,7,33,4,third-place match
-288,WC-1995,1995 FIFA Women's World Cup,T-74,Sweden,SWE,4,33,3,quarter-final
-336,WC-1999,1999 FIFA Women's World Cup,T-74,Sweden,SWE,4,33,3,quarter-final
-365,WC-2002,2002 FIFA Men's World Cup,T-74,Sweden,SWE,4,33,2,round of 16
-384,WC-2003,2003 FIFA Women's World Cup,T-74,Sweden,SWE,6,33,5,final
-411,WC-2006,2006 FIFA Men's World Cup,T-74,Sweden,SWE,4,33,2,round of 16
-432,WC-2007,2007 FIFA Women's World Cup,T-74,Sweden,SWE,3,33,1,group stage
-480,WC-2011,2011 FIFA Women's World Cup,T-74,Sweden,SWE,6,33,4,third-place match
-534,WC-2015,2015 FIFA Women's World Cup,T-74,Sweden,SWE,4,33,2,round of 16
-566,WC-2018,2018 FIFA Men's World Cup,T-74,Sweden,SWE,5,33,3,quarter-finals
-591,WC-2019,2019 FIFA Women's World Cup,T-74,Sweden,SWE,7,33,4,third-place match
-1,WC-1930,1930 FIFA Men's World Cup,T-03,Argentina,ARG,5,7,5,final
-14,WC-1934,1934 FIFA Men's World Cup,T-03,Argentina,ARG,1,7,2,round of 16
-74,WC-1958,1958 FIFA Men's World Cup,T-03,Argentina,ARG,3,7,1,group stage
-90,WC-1962,1962 FIFA Men's World Cup,T-03,Argentina,ARG,3,7,1,group stage
-106,WC-1966,1966 FIFA Men's World Cup,T-03,Argentina,ARG,4,7,3,quarter-finals
-138,WC-1974,1974 FIFA Men's World Cup,T-03,Argentina,ARG,6,7,1,second group stage
-154,WC-1978,1978 FIFA Men's World Cup,T-03,Argentina,ARG,7,7,5,final
-171,WC-1982,1982 FIFA Men's World Cup,T-03,Argentina,ARG,5,7,1,second group stage
-195,WC-1986,1986 FIFA Men's World Cup,T-03,Argentina,ARG,7,7,5,final
-218,WC-1990,1990 FIFA Men's World Cup,T-03,Argentina,ARG,7,7,5,final
-254,WC-1994,1994 FIFA Men's World Cup,T-03,Argentina,ARG,4,7,2,round of 16
-290,WC-1998,1998 FIFA Men's World Cup,T-03,Argentina,ARG,5,7,3,quarter-finals
-338,WC-2002,2002 FIFA Men's World Cup,T-03,Argentina,ARG,3,7,1,group stage
-370,WC-2003,2003 FIFA Women's World Cup,T-03,Argentina,ARG,3,7,1,group stage
-387,WC-2006,2006 FIFA Men's World Cup,T-03,Argentina,ARG,5,7,3,quarter-finals
-418,WC-2007,2007 FIFA Women's World Cup,T-03,Argentina,ARG,3,7,1,group stage
-435,WC-2010,2010 FIFA Men's World Cup,T-03,Argentina,ARG,5,7,3,quarter-finals
-483,WC-2014,2014 FIFA Men's World Cup,T-03,Argentina,ARG,7,7,5,final
-538,WC-2018,2018 FIFA Men's World Cup,T-03,Argentina,ARG,4,7,2,round of 16
-570,WC-2019,2019 FIFA Women's World Cup,T-03,Argentina,ARG,3,7,1,group stage
-594,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,7,7,5,final
-4,WC-1930,1930 FIFA Men's World Cup,T-09,Brazil,BRA,2,8,1,group stage
-17,WC-1934,1934 FIFA Men's World Cup,T-09,Brazil,BRA,1,8,2,round of 16
-31,WC-1938,1938 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,4,third-place match
-46,WC-1950,1950 FIFA Men's World Cup,T-09,Brazil,BRA,6,8,5,final round
-60,WC-1954,1954 FIFA Men's World Cup,T-09,Brazil,BRA,3,8,3,quarter-finals
-76,WC-1958,1958 FIFA Men's World Cup,T-09,Brazil,BRA,6,8,5,final
-91,WC-1962,1962 FIFA Men's World Cup,T-09,Brazil,BRA,6,8,5,final
-107,WC-1966,1966 FIFA Men's World Cup,T-09,Brazil,BRA,3,8,1,group stage
-123,WC-1970,1970 FIFA Men's World Cup,T-09,Brazil,BRA,6,8,5,final
-140,WC-1974,1974 FIFA Men's World Cup,T-09,Brazil,BRA,7,8,4,third-place match
-156,WC-1978,1978 FIFA Men's World Cup,T-09,Brazil,BRA,7,8,4,third-place match
-174,WC-1982,1982 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,1,second group stage
-197,WC-1986,1986 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,3,quarter-finals
-221,WC-1990,1990 FIFA Men's World Cup,T-09,Brazil,BRA,4,8,2,round of 16
-242,WC-1991,1991 FIFA Women's World Cup,T-09,Brazil,BRA,3,8,1,group stage
-257,WC-1994,1994 FIFA Men's World Cup,T-09,Brazil,BRA,7,8,5,final
-279,WC-1995,1995 FIFA Women's World Cup,T-09,Brazil,BRA,3,8,1,group stage
-293,WC-1998,1998 FIFA Men's World Cup,T-09,Brazil,BRA,7,8,5,final
-323,WC-1999,1999 FIFA Women's World Cup,T-09,Brazil,BRA,6,8,4,third-place match
-340,WC-2002,2002 FIFA Men's World Cup,T-09,Brazil,BRA,7,8,5,final
-372,WC-2003,2003 FIFA Women's World Cup,T-09,Brazil,BRA,4,8,3,quarter-final
-389,WC-2006,2006 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,3,quarter-finals
-420,WC-2007,2007 FIFA Women's World Cup,T-09,Brazil,BRA,6,8,5,final
-437,WC-2010,2010 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,3,quarter-finals
-467,WC-2011,2011 FIFA Women's World Cup,T-09,Brazil,BRA,4,8,3,quarter-final
-487,WC-2014,2014 FIFA Men's World Cup,T-09,Brazil,BRA,7,8,4,third-place match
-515,WC-2015,2015 FIFA Women's World Cup,T-09,Brazil,BRA,4,8,2,round of 16
-541,WC-2018,2018 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,3,quarter-finals
-572,WC-2019,2019 FIFA Women's World Cup,T-09,Brazil,BRA,4,8,2,round of 16
-597,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,5,8,3,quarter-finals
-21,WC-1934,1934 FIFA Men's World Cup,T-31,Germany,DEU,4,34,4,third-place match
-36,WC-1938,1938 FIFA Men's World Cup,T-31,Germany,DEU,2,34,2,round of 16
-72,WC-1954,1954 FIFA Men's World Cup,T-86,West Germany,DEU,6,35,5,final
-88,WC-1958,1958 FIFA Men's World Cup,T-86,West Germany,DEU,6,35,4,third-place match
-104,WC-1962,1962 FIFA Men's World Cup,T-86,West Germany,DEU,4,35,3,quarter-finals
-121,WC-1966,1966 FIFA Men's World Cup,T-86,West Germany,DEU,6,35,5,final
-137,WC-1970,1970 FIFA Men's World Cup,T-86,West Germany,DEU,6,35,4,third-place match
-151,WC-1974,1974 FIFA Men's World Cup,T-86,West Germany,DEU,7,35,5,final
-169,WC-1978,1978 FIFA Men's World Cup,T-86,West Germany,DEU,6,35,1,second group stage
-192,WC-1982,1982 FIFA Men's World Cup,T-86,West Germany,DEU,7,35,5,final
-217,WC-1986,1986 FIFA Men's World Cup,T-86,West Germany,DEU,7,35,5,final
-240,WC-1990,1990 FIFA Men's World Cup,T-86,West Germany,DEU,7,35,5,final
-246,WC-1991,1991 FIFA Women's World Cup,T-31,Germany,DEU,6,34,4,third-place match
-261,WC-1994,1994 FIFA Men's World Cup,T-31,Germany,DEU,5,34,3,quarter-finals
-284,WC-1995,1995 FIFA Women's World Cup,T-31,Germany,DEU,6,34,5,final
-302,WC-1998,1998 FIFA Men's World Cup,T-31,Germany,DEU,5,34,3,quarter-finals
-327,WC-1999,1999 FIFA Women's World Cup,T-31,Germany,DEU,4,34,3,quarter-final
-349,WC-2002,2002 FIFA Men's World Cup,T-31,Germany,DEU,7,34,5,final
-376,WC-2003,2003 FIFA Women's World Cup,T-31,Germany,DEU,6,34,5,final
-396,WC-2006,2006 FIFA Men's World Cup,T-31,Germany,DEU,7,34,4,third-place match
-425,WC-2007,2007 FIFA Women's World Cup,T-31,Germany,DEU,6,34,5,final
-443,WC-2010,2010 FIFA Men's World Cup,T-31,Germany,DEU,7,34,4,third-place match
-473,WC-2011,2011 FIFA Women's World Cup,T-31,Germany,DEU,4,34,3,quarter-final
-496,WC-2014,2014 FIFA Men's World Cup,T-31,Germany,DEU,7,34,5,final
-524,WC-2015,2015 FIFA Women's World Cup,T-31,Germany,DEU,7,34,4,third-place match
-549,WC-2018,2018 FIFA Men's World Cup,T-31,Germany,DEU,3,34,1,group stage
-579,WC-2019,2019 FIFA Women's World Cup,T-31,Germany,DEU,5,34,3,quarter-final
-606,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,3,34,1,group stage
-48,WC-1950,1950 FIFA Men's World Cup,T-28,England,ENG,3,36,1,group stage
-62,WC-1954,1954 FIFA Men's World Cup,T-28,England,ENG,3,36,3,quarter-finals
-78,WC-1958,1958 FIFA Men's World Cup,T-28,England,ENG,4,36,1,group stage
-96,WC-1962,1962 FIFA Men's World Cup,T-28,England,ENG,4,36,3,quarter-finals
-110,WC-1966,1966 FIFA Men's World Cup,T-28,England,ENG,6,36,5,final
-127,WC-1970,1970 FIFA Men's World Cup,T-28,England,ENG,4,36,3,quarter-finals
-179,WC-1982,1982 FIFA Men's World Cup,T-28,England,ENG,5,36,1,second group stage
-201,WC-1986,1986 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals
-227,WC-1990,1990 FIFA Men's World Cup,T-28,England,ENG,7,36,4,third-place match
-283,WC-1995,1995 FIFA Women's World Cup,T-28,England,ENG,4,36,3,quarter-final
-300,WC-1998,1998 FIFA Men's World Cup,T-28,England,ENG,4,36,2,round of 16
-347,WC-2002,2002 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals
-394,WC-2006,2006 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals
-424,WC-2007,2007 FIFA Women's World Cup,T-28,England,ENG,4,36,3,quarter-final
-441,WC-2010,2010 FIFA Men's World Cup,T-28,England,ENG,4,36,2,round of 16
-470,WC-2011,2011 FIFA Women's World Cup,T-28,England,ENG,4,36,3,quarter-final
-494,WC-2014,2014 FIFA Men's World Cup,T-28,England,ENG,3,36,1,group stage
-522,WC-2015,2015 FIFA Women's World Cup,T-28,England,ENG,7,36,4,third-place match
-547,WC-2018,2018 FIFA Men's World Cup,T-28,England,ENG,7,36,4,third-place match
-577,WC-2019,2019 FIFA Women's World Cup,T-28,England,ENG,7,36,4,third-place match
-604,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals
-26,WC-1934,1934 FIFA Men's World Cup,T-73,Spain,ESP,3,37,3,quarter-finals
-52,WC-1950,1950 FIFA Men's World Cup,T-73,Spain,ESP,6,37,5,final round
-101,WC-1962,1962 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage
-118,WC-1966,1966 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage
-166,WC-1978,1978 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage
-191,WC-1982,1982 FIFA Men's World Cup,T-73,Spain,ESP,5,37,1,second group stage
-215,WC-1986,1986 FIFA Men's World Cup,T-73,Spain,ESP,5,37,3,quarter-finals
-235,WC-1990,1990 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16
-274,WC-1994,1994 FIFA Men's World Cup,T-73,Spain,ESP,5,37,3,quarter-finals
-318,WC-1998,1998 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage
-364,WC-2002,2002 FIFA Men's World Cup,T-73,Spain,ESP,5,37,3,quarter-finals
-410,WC-2006,2006 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16
-462,WC-2010,2010 FIFA Men's World Cup,T-73,Spain,ESP,7,37,5,final
-510,WC-2014,2014 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage
-533,WC-2015,2015 FIFA Women's World Cup,T-73,Spain,ESP,3,37,1,group stage
-565,WC-2018,2018 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16
-590,WC-2019,2019 FIFA Women's World Cup,T-73,Spain,ESP,4,37,2,round of 16
-620,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16
-6,WC-1930,1930 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage
-20,WC-1934,1934 FIFA Men's World Cup,T-30,France,FRA,1,38,2,round of 16
-35,WC-1938,1938 FIFA Men's World Cup,T-30,France,FRA,2,38,3,quarter-finals
-63,WC-1954,1954 FIFA Men's World Cup,T-30,France,FRA,2,38,1,group stage
-79,WC-1958,1958 FIFA Men's World Cup,T-30,France,FRA,6,38,4,third-place match
-111,WC-1966,1966 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage
-157,WC-1978,1978 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage
-180,WC-1982,1982 FIFA Men's World Cup,T-30,France,FRA,7,38,4,third-place match
-202,WC-1986,1986 FIFA Men's World Cup,T-30,France,FRA,7,38,4,third-place match
-301,WC-1998,1998 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final
-348,WC-2002,2002 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage
-375,WC-2003,2003 FIFA Women's World Cup,T-30,France,FRA,3,38,1,group stage
-395,WC-2006,2006 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final
-442,WC-2010,2010 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage
-472,WC-2011,2011 FIFA Women's World Cup,T-30,France,FRA,6,38,4,third-place match
-495,WC-2014,2014 FIFA Men's World Cup,T-30,France,FRA,5,38,3,quarter-finals
-523,WC-2015,2015 FIFA Women's World Cup,T-30,France,FRA,5,38,3,quarter-final
-548,WC-2018,2018 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final
-578,WC-2019,2019 FIFA Women's World Cup,T-30,France,FRA,5,38,3,quarter-final
-605,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final
-23,WC-1934,1934 FIFA Men's World Cup,T-41,Italy,ITA,5,39,5,final
-38,WC-1938,1938 FIFA Men's World Cup,T-41,Italy,ITA,4,39,5,final
-49,WC-1950,1950 FIFA Men's World Cup,T-41,Italy,ITA,2,39,1,group stage
-65,WC-1954,1954 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage
-98,WC-1962,1962 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage
-113,WC-1966,1966 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage
-129,WC-1970,1970 FIFA Men's World Cup,T-41,Italy,ITA,6,39,5,final
-145,WC-1974,1974 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage
-160,WC-1978,1978 FIFA Men's World Cup,T-41,Italy,ITA,7,39,4,third-place match
-183,WC-1982,1982 FIFA Men's World Cup,T-41,Italy,ITA,7,39,5,final
-205,WC-1986,1986 FIFA Men's World Cup,T-41,Italy,ITA,4,39,2,round of 16
-228,WC-1990,1990 FIFA Men's World Cup,T-41,Italy,ITA,7,39,4,third-place match
-247,WC-1991,1991 FIFA Women's World Cup,T-41,Italy,ITA,4,39,3,quarter-final
-263,WC-1994,1994 FIFA Men's World Cup,T-41,Italy,ITA,7,39,5,final
-304,WC-1998,1998 FIFA Men's World Cup,T-41,Italy,ITA,5,39,3,quarter-finals
-329,WC-1999,1999 FIFA Women's World Cup,T-41,Italy,ITA,3,39,1,group stage
-350,WC-2002,2002 FIFA Men's World Cup,T-41,Italy,ITA,4,39,2,round of 16
-399,WC-2006,2006 FIFA Men's World Cup,T-41,Italy,ITA,7,39,5,final
-447,WC-2010,2010 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage
-501,WC-2014,2014 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage
-580,WC-2019,2019 FIFA Women's World Cup,T-41,Italy,ITA,5,39,3,quarter-final
-12,WC-1930,1930 FIFA Men's World Cup,T-84,Uruguay,URY,4,9,5,final
-56,WC-1950,1950 FIFA Men's World Cup,T-84,Uruguay,URY,4,9,5,final round
-71,WC-1954,1954 FIFA Men's World Cup,T-84,Uruguay,URY,5,9,4,third-place match
-103,WC-1962,1962 FIFA Men's World Cup,T-84,Uruguay,URY,3,9,1,group stage
-120,WC-1966,1966 FIFA Men's World Cup,T-84,Uruguay,URY,4,9,3,quarter-finals
-136,WC-1970,1970 FIFA Men's World Cup,T-84,Uruguay,URY,6,9,4,third-place match
-150,WC-1974,1974 FIFA Men's World Cup,T-84,Uruguay,URY,3,9,1,group stage
-216,WC-1986,1986 FIFA Men's World Cup,T-84,Uruguay,URY,4,9,2,round of 16
-239,WC-1990,1990 FIFA Men's World Cup,T-84,Uruguay,URY,4,9,2,round of 16
-369,WC-2002,2002 FIFA Men's World Cup,T-84,Uruguay,URY,3,9,1,group stage
-465,WC-2010,2010 FIFA Men's World Cup,T-84,Uruguay,URY,7,9,4,third-place match
-513,WC-2014,2014 FIFA Men's World Cup,T-84,Uruguay,URY,4,9,2,round of 16
-569,WC-2018,2018 FIFA Men's World Cup,T-84,Uruguay,URY,5,9,3,quarter-finals
-624,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,3,9,1,group stage
-471,WC-2011,2011 FIFA Women's World Cup,T-29,Equatorial Guinea,GNQ,3,99,1,group stage
-536,WC-2015,2015 FIFA Women's World Cup,T-76,Thailand,THA,3,99,1,group stage
-592,WC-2019,2019 FIFA Women's World Cup,T-76,Thailand,THA,3,99,1,group stage
-244,WC-1991,1991 FIFA Women's World Cup,T-15,Chinese Taipei,TWN,4,99,3,quarter-final
+key_id,tournament_id,tournament_name,team_id,team_name,team_code,count_matches,x_axis,y_axis,performance,conf_code
+386,WC-2006,2006 FIFA Men's World Cup,T-02,Angola,AGO,3,0.725,1,group stage,CAF
+237,WC-1990,1990 FIFA Men's World Cup,T-82,United Arab Emirates,ARE,3,1.55,1,group stage,AFC
+486,WC-2014,2014 FIFA Men's World Cup,T-08,Bosnia and Herzegovina,BIH,3,1,1,group stage,UEFA
+3,WC-1930,1930 FIFA Men's World Cup,T-07,Bolivia,BOL,2,1.55,1,group stage,CONMEBOL
+45,WC-1950,1950 FIFA Men's World Cup,T-07,Bolivia,BOL,1,1.55,1,group stage,CONMEBOL
+256,WC-1994,1994 FIFA Men's World Cup,T-07,Bolivia,BOL,3,1.55,1,group stage,CONMEBOL
+199,WC-1986,1986 FIFA Men's World Cup,T-12,Canada,CAN,3,1.55,1,group stage,CONCACAF
+280,WC-1995,1995 FIFA Women's World Cup,T-12,Canada,CAN,3,1.55,1,group stage,CONCACAF
+324,WC-1999,1999 FIFA Women's World Cup,T-12,Canada,CAN,3,1.55,1,group stage,CONCACAF
+373,WC-2003,2003 FIFA Women's World Cup,T-12,Canada,CAN,6,1.55,4,third-place match,CONCACAF
+421,WC-2007,2007 FIFA Women's World Cup,T-12,Canada,CAN,3,1.55,1,group stage,CONCACAF
+468,WC-2011,2011 FIFA Women's World Cup,T-12,Canada,CAN,3,1.55,1,group stage,CONCACAF
+517,WC-2015,2015 FIFA Women's World Cup,T-12,Canada,CAN,5,1.55,3,quarter-final,CONCACAF
+574,WC-2019,2019 FIFA Women's World Cup,T-12,Canada,CAN,4,1.55,2,round of 16,CONCACAF
+599,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,3,1.55,1,group stage,CONCACAF
+243,WC-1991,1991 FIFA Women's World Cup,T-14,China,CHN,4,2.35,3,quarter-final,AFC
+281,WC-1995,1995 FIFA Women's World Cup,T-14,China,CHN,6,2.35,4,third-place match,AFC
+325,WC-1999,1999 FIFA Women's World Cup,T-14,China,CHN,6,2.35,5,final,AFC
+342,WC-2002,2002 FIFA Men's World Cup,T-14,China,CHN,3,2.35,1,group stage,AFC
+374,WC-2003,2003 FIFA Women's World Cup,T-14,China,CHN,4,2.35,3,quarter-final,AFC
+422,WC-2007,2007 FIFA Women's World Cup,T-14,China,CHN,4,2.35,3,quarter-final,AFC
+518,WC-2015,2015 FIFA Women's World Cup,T-14,China,CHN,5,2.35,3,quarter-final,AFC
+576,WC-2019,2019 FIFA Women's World Cup,T-14,China,CHN,4,2.35,2,round of 16,AFC
+400,WC-2006,2006 FIFA Men's World Cup,T-42,Ivory Coast,CIV,3,1.75,1,group stage,CAF
+448,WC-2010,2010 FIFA Men's World Cup,T-42,Ivory Coast,CIV,3,1.75,1,group stage,CAF
+502,WC-2014,2014 FIFA Men's World Cup,T-42,Ivory Coast,CIV,3,1.75,1,group stage,CAF
+525,WC-2015,2015 FIFA Women's World Cup,T-42,Ivory Coast,CIV,3,1.75,1,group stage,CAF
+153,WC-1974,1974 FIFA Men's World Cup,T-88,Zaire,COD,3,2.8,1,group stage,CAF
+392,WC-2006,2006 FIFA Men's World Cup,T-20,Czech Republic,CZE,3,2,1,group stage,UEFA
+143,WC-1974,1974 FIFA Men's World Cup,T-24,East Germany,DDR,6,3,1,second group stage,UEFA
+181,WC-1982,1982 FIFA Men's World Cup,T-35,Honduras,HND,3,2.45,1,group stage,CONCACAF
+446,WC-2010,2010 FIFA Men's World Cup,T-35,Honduras,HND,3,2.45,1,group stage,CONCACAF
+499,WC-2014,2014 FIFA Men's World Cup,T-35,Honduras,HND,3,2.45,1,group stage,CONCACAF
+144,WC-1974,1974 FIFA Men's World Cup,T-34,Haiti,HTI,3,3.3,1,group stage,CONCACAF
+159,WC-1978,1978 FIFA Men's World Cup,T-38,Iran,IRN,3,3.15,1,group stage,AFC
+303,WC-1998,1998 FIFA Men's World Cup,T-38,Iran,IRN,3,3.15,1,group stage,AFC
+398,WC-2006,2006 FIFA Men's World Cup,T-38,Iran,IRN,3,3.15,1,group stage,AFC
+500,WC-2014,2014 FIFA Men's World Cup,T-38,Iran,IRN,3,3.15,1,group stage,AFC
+551,WC-2018,2018 FIFA Men's World Cup,T-38,Iran,IRN,3,3.15,1,group stage,AFC
+608,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,3,3.15,1,group stage,AFC
+204,WC-1986,1986 FIFA Men's World Cup,T-39,Iraq,IRQ,3,3.95,1,group stage,AFC
+550,WC-2018,2018 FIFA Men's World Cup,T-37,Iceland,ISL,3,4,1,group stage,UEFA
+128,WC-1970,1970 FIFA Men's World Cup,T-40,Israel,ISR,3,5,1,group stage,UEFA
+305,WC-1998,1998 FIFA Men's World Cup,T-43,Jamaica,JAM,3,4.2,1,group stage,CONCACAF
+581,WC-2019,2019 FIFA Women's World Cup,T-43,Jamaica,JAM,3,4.2,1,group stage,CONCACAF
+184,WC-1982,1982 FIFA Men's World Cup,T-45,Kuwait,KWT,3,4.8,1,group stage,AFC
+185,WC-1982,1982 FIFA Men's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+249,WC-1991,1991 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+428,WC-2007,2007 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+452,WC-2010,2010 FIFA Men's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+476,WC-2011,2011 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+529,WC-2015,2015 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+584,WC-2019,2019 FIFA Women's World Cup,T-49,New Zealand,NZL,3,1,1,group stage,OFC
+556,WC-2018,2018 FIFA Men's World Cup,T-54,Panama,PAN,3,5.1,1,group stage,CONCACAF
+615,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,3,5.55,1,group stage,AFC
+408,WC-2006,2006 FIFA Men's World Cup,T-67,Serbia and Montenegro,SCG,3,6,1,group stage,UEFA
+67,WC-1954,1954 FIFA Men's World Cup,T-64,Scotland,SCO,2,7,1,group stage,UEFA
+84,WC-1958,1958 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+148,WC-1974,1974 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+165,WC-1978,1978 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+189,WC-1982,1982 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+212,WC-1986,1986 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+232,WC-1990,1990 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+315,WC-1998,1998 FIFA Men's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+587,WC-2019,2019 FIFA Women's World Cup,T-64,Scotland,SCO,3,7,1,group stage,UEFA
+126,WC-1970,1970 FIFA Men's World Cup,T-27,El Salvador,SLV,3,6,1,group stage,CONCACAF
+178,WC-1982,1982 FIFA Men's World Cup,T-27,El Salvador,SLV,3,6,1,group stage,CONCACAF
+457,WC-2010,2010 FIFA Men's World Cup,T-66,Serbia,SRB,3,8,1,group stage,UEFA
+563,WC-2018,2018 FIFA Men's World Cup,T-66,Serbia,SRB,3,8,1,group stage,UEFA
+618,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,3,8,1,group stage,UEFA
+361,WC-2002,2002 FIFA Men's World Cup,T-69,Slovenia,SVN,3,9,1,group stage,UEFA
+459,WC-2010,2010 FIFA Men's World Cup,T-69,Slovenia,SVN,3,9,1,group stage,UEFA
+413,WC-2006,2006 FIFA Men's World Cup,T-77,Togo,TGO,3,3.85,1,group stage,CAF
+414,WC-2006,2006 FIFA Men's World Cup,T-78,Trinidad and Tobago,TTO,3,6.9,1,group stage,CONCACAF
+168,WC-1978,1978 FIFA Men's World Cup,T-79,Tunisia,TUN,3,4.9,1,group stage,CAF
+319,WC-1998,1998 FIFA Men's World Cup,T-79,Tunisia,TUN,3,4.9,1,group stage,CAF
+366,WC-2002,2002 FIFA Men's World Cup,T-79,Tunisia,TUN,3,4.9,1,group stage,CAF
+415,WC-2006,2006 FIFA Men's World Cup,T-79,Tunisia,TUN,3,4.9,1,group stage,CAF
+568,WC-2018,2018 FIFA Men's World Cup,T-79,Tunisia,TUN,3,4.9,1,group stage,CAF
+622,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,3,4.9,1,group stage,CAF
+316,WC-1998,1998 FIFA Men's World Cup,T-70,South Africa,ZAF,3,5.9,1,group stage,CAF
+362,WC-2002,2002 FIFA Men's World Cup,T-70,South Africa,ZAF,3,5.9,1,group stage,CAF
+460,WC-2010,2010 FIFA Men's World Cup,T-70,South Africa,ZAF,3,5.9,1,group stage,CAF
+588,WC-2019,2019 FIFA Women's World Cup,T-70,South Africa,ZAF,3,5.9,1,group stage,CAF
+139,WC-1974,1974 FIFA Men's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+278,WC-1995,1995 FIFA Women's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+322,WC-1999,1999 FIFA Women's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+371,WC-2003,2003 FIFA Women's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+388,WC-2006,2006 FIFA Men's World Cup,T-04,Australia,AUS,4,6.45,2,round of 16,AFC
+419,WC-2007,2007 FIFA Women's World Cup,T-04,Australia,AUS,4,6.45,3,quarter-final,AFC
+436,WC-2010,2010 FIFA Men's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+466,WC-2011,2011 FIFA Women's World Cup,T-04,Australia,AUS,4,6.45,3,quarter-final,AFC
+484,WC-2014,2014 FIFA Men's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+514,WC-2015,2015 FIFA Women's World Cup,T-04,Australia,AUS,5,6.45,3,quarter-final,AFC
+539,WC-2018,2018 FIFA Men's World Cup,T-04,Australia,AUS,3,6.45,1,group stage,AFC
+571,WC-2019,2019 FIFA Women's World Cup,T-04,Australia,AUS,4,6.45,2,round of 16,AFC
+595,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,4,6.45,2,round of 16,AFC
+170,WC-1982,1982 FIFA Men's World Cup,T-01,Algeria,DZA,3,7,1,group stage,CAF
+194,WC-1986,1986 FIFA Men's World Cup,T-01,Algeria,DZA,3,7,1,group stage,CAF
+434,WC-2010,2010 FIFA Men's World Cup,T-01,Algeria,DZA,3,7,1,group stage,CAF
+482,WC-2014,2014 FIFA Men's World Cup,T-01,Algeria,DZA,4,7,2,round of 16,CAF
+346,WC-2002,2002 FIFA Men's World Cup,T-25,Ecuador,ECU,3,2.4,1,group stage,CONMEBOL
+393,WC-2006,2006 FIFA Men's World Cup,T-25,Ecuador,ECU,4,2.4,2,round of 16,CONMEBOL
+493,WC-2014,2014 FIFA Men's World Cup,T-25,Ecuador,ECU,3,2.4,1,group stage,CONMEBOL
+521,WC-2015,2015 FIFA Women's World Cup,T-25,Ecuador,ECU,3,2.4,1,group stage,CONMEBOL
+603,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,3,2.4,1,group stage,CONMEBOL
+19,WC-1934,1934 FIFA Men's World Cup,T-26,Egypt,EGY,1,8.1,2,round of 16,CAF
+226,WC-1990,1990 FIFA Men's World Cup,T-26,Egypt,EGY,3,8.1,1,group stage,CAF
+546,WC-2018,2018 FIFA Men's World Cup,T-26,Egypt,EGY,3,8.1,1,group stage,CAF
+262,WC-1994,1994 FIFA Men's World Cup,T-33,Greece,GRC,3,10,1,group stage,UEFA
+445,WC-2010,2010 FIFA Men's World Cup,T-33,Greece,GRC,3,10,1,group stage,UEFA
+498,WC-2014,2014 FIFA Men's World Cup,T-33,Greece,GRC,4,10,2,round of 16,UEFA
+34,WC-1938,1938 FIFA Men's World Cup,T-23,Dutch East Indies,IDN,1,7.2,2,round of 16,AFC
+248,WC-1991,1991 FIFA Women's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+285,WC-1995,1995 FIFA Women's World Cup,T-44,Japan,JPN,4,8.05,3,quarter-final,AFC
+306,WC-1998,1998 FIFA Men's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+330,WC-1999,1999 FIFA Women's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+351,WC-2002,2002 FIFA Men's World Cup,T-44,Japan,JPN,4,8.05,2,round of 16,AFC
+378,WC-2003,2003 FIFA Women's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+401,WC-2006,2006 FIFA Men's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+427,WC-2007,2007 FIFA Women's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+449,WC-2010,2010 FIFA Men's World Cup,T-44,Japan,JPN,4,8.05,2,round of 16,AFC
+474,WC-2011,2011 FIFA Women's World Cup,T-44,Japan,JPN,6,8.05,5,final,AFC
+503,WC-2014,2014 FIFA Men's World Cup,T-44,Japan,JPN,3,8.05,1,group stage,AFC
+526,WC-2015,2015 FIFA Women's World Cup,T-44,Japan,JPN,7,8.05,5,final,AFC
+552,WC-2018,2018 FIFA Men's World Cup,T-44,Japan,JPN,4,8.05,2,round of 16,AFC
+582,WC-2019,2019 FIFA Women's World Cup,T-44,Japan,JPN,4,8.05,2,round of 16,AFC
+609,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,4,8.05,2,round of 16,AFC
+250,WC-1991,1991 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9.2,1,group stage,CAF
+267,WC-1994,1994 FIFA Men's World Cup,T-50,Nigeria,NGA,4,9.1,2,round of 16,CAF
+286,WC-1995,1995 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+310,WC-1998,1998 FIFA Men's World Cup,T-50,Nigeria,NGA,4,9.1,2,round of 16,CAF
+332,WC-1999,1999 FIFA Women's World Cup,T-50,Nigeria,NGA,4,9.1,3,quarter-final,CAF
+353,WC-2002,2002 FIFA Men's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+379,WC-2003,2003 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+429,WC-2007,2007 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+453,WC-2010,2010 FIFA Men's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+477,WC-2011,2011 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+506,WC-2014,2014 FIFA Men's World Cup,T-50,Nigeria,NGA,4,9.1,2,round of 16,CAF
+530,WC-2015,2015 FIFA Women's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+555,WC-2018,2018 FIFA Men's World Cup,T-50,Nigeria,NGA,3,9.1,1,group stage,CAF
+585,WC-2019,2019 FIFA Women's World Cup,T-50,Nigeria,NGA,4,9.1,2,round of 16,CAF
+40,WC-1938,1938 FIFA Men's World Cup,T-53,Norway,NOR,1,11,2,round of 16,UEFA
+251,WC-1991,1991 FIFA Women's World Cup,T-53,Norway,NOR,6,11,5,final,UEFA
+268,WC-1994,1994 FIFA Men's World Cup,T-53,Norway,NOR,3,11,1,group stage,UEFA
+287,WC-1995,1995 FIFA Women's World Cup,T-53,Norway,NOR,6,11,5,final,UEFA
+311,WC-1998,1998 FIFA Men's World Cup,T-53,Norway,NOR,4,11,2,round of 16,UEFA
+334,WC-1999,1999 FIFA Women's World Cup,T-53,Norway,NOR,6,11,4,third-place match,UEFA
+381,WC-2003,2003 FIFA Women's World Cup,T-53,Norway,NOR,4,11,3,quarter-final,UEFA
+431,WC-2007,2007 FIFA Women's World Cup,T-53,Norway,NOR,6,11,4,third-place match,UEFA
+479,WC-2011,2011 FIFA Women's World Cup,T-53,Norway,NOR,3,11,1,group stage,UEFA
+531,WC-2015,2015 FIFA Women's World Cup,T-53,Norway,NOR,4,11,2,round of 16,UEFA
+586,WC-2019,2019 FIFA Women's World Cup,T-53,Norway,NOR,5,11,3,quarter-final,UEFA
+272,WC-1994,1994 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,4,8.85,2,round of 16,AFC
+314,WC-1998,1998 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,8.85,1,group stage,AFC
+359,WC-2002,2002 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,8.85,1,group stage,AFC
+407,WC-2006,2006 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,8.85,1,group stage,AFC
+561,WC-2018,2018 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,8.85,1,group stage,AFC
+616,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,3,8.85,1,group stage,AFC
+458,WC-2010,2010 FIFA Men's World Cup,T-68,Slovakia,SVK,4,12,2,round of 16,UEFA
+28,WC-1934,1934 FIFA Men's World Cup,T-75,Switzerland,CHE,2,13,3,quarter-finals,UEFA
+44,WC-1938,1938 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,3,quarter-finals,UEFA
+54,WC-1950,1950 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage,UEFA
+69,WC-1954,1954 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,3,quarter-finals,UEFA
+102,WC-1962,1962 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage,UEFA
+119,WC-1966,1966 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage,UEFA
+276,WC-1994,1994 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16,UEFA
+412,WC-2006,2006 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16,UEFA
+463,WC-2010,2010 FIFA Men's World Cup,T-75,Switzerland,CHE,3,13,1,group stage,UEFA
+511,WC-2014,2014 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16,UEFA
+535,WC-2015,2015 FIFA Women's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16,UEFA
+567,WC-2018,2018 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16,UEFA
+621,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,4,13,2,round of 16,UEFA
+175,WC-1982,1982 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+222,WC-1990,1990 FIFA Men's World Cup,T-11,Cameroon,CMR,5,10.15,3,quarter-finals,CAF
+259,WC-1994,1994 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+295,WC-1998,1998 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+341,WC-2002,2002 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+438,WC-2010,2010 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+488,WC-2014,2014 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+516,WC-2015,2015 FIFA Women's World Cup,T-11,Cameroon,CMR,4,10.15,2,round of 16,CAF
+573,WC-2019,2019 FIFA Women's World Cup,T-11,Cameroon,CMR,4,10.15,2,round of 16,CAF
+598,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,3,10.15,1,group stage,CAF
+94,WC-1962,1962 FIFA Men's World Cup,T-16,Colombia,COL,3,3.25,1,group stage,CONMEBOL
+223,WC-1990,1990 FIFA Men's World Cup,T-16,Colombia,COL,4,3.25,2,round of 16,CONMEBOL
+260,WC-1994,1994 FIFA Men's World Cup,T-16,Colombia,COL,3,3.25,1,group stage,CONMEBOL
+297,WC-1998,1998 FIFA Men's World Cup,T-16,Colombia,COL,3,3.25,1,group stage,CONMEBOL
+469,WC-2011,2011 FIFA Women's World Cup,T-16,Colombia,COL,3,3.25,1,group stage,CONMEBOL
+490,WC-2014,2014 FIFA Men's World Cup,T-16,Colombia,COL,5,3.25,3,quarter-finals,CONMEBOL
+519,WC-2015,2015 FIFA Women's World Cup,T-16,Colombia,COL,4,3.25,2,round of 16,CONMEBOL
+542,WC-2018,2018 FIFA Men's World Cup,T-16,Colombia,COL,4,3.25,2,round of 16,CONMEBOL
+224,WC-1990,1990 FIFA Men's World Cup,T-17,Costa Rica,CRI,4,7.8,2,round of 16,CONCACAF
+343,WC-2002,2002 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,7.8,1,group stage,CONCACAF
+390,WC-2006,2006 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,7.8,1,group stage,CONCACAF
+491,WC-2014,2014 FIFA Men's World Cup,T-17,Costa Rica,CRI,5,7.8,3,quarter-finals,CONCACAF
+520,WC-2015,2015 FIFA Women's World Cup,T-17,Costa Rica,CRI,3,7.8,1,group stage,CONCACAF
+543,WC-2018,2018 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,7.8,1,group stage,CONCACAF
+600,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,3,7.8,1,group stage,CONCACAF
+32,WC-1938,1938 FIFA Men's World Cup,T-19,Cuba,CUB,3,8.65,3,quarter-finals,CONCACAF
+200,WC-1986,1986 FIFA Men's World Cup,T-22,Denmark,DNK,4,14,2,round of 16,UEFA
+245,WC-1991,1991 FIFA Women's World Cup,T-22,Denmark,DNK,4,14,3,quarter-final,UEFA
+282,WC-1995,1995 FIFA Women's World Cup,T-22,Denmark,DNK,4,14,3,quarter-final,UEFA
+299,WC-1998,1998 FIFA Men's World Cup,T-22,Denmark,DNK,5,14,3,quarter-finals,UEFA
+326,WC-1999,1999 FIFA Women's World Cup,T-22,Denmark,DNK,3,14,1,group stage,UEFA
+345,WC-2002,2002 FIFA Men's World Cup,T-22,Denmark,DNK,4,14,2,round of 16,UEFA
+423,WC-2007,2007 FIFA Women's World Cup,T-22,Denmark,DNK,3,14,1,group stage,UEFA
+440,WC-2010,2010 FIFA Men's World Cup,T-22,Denmark,DNK,3,14,1,group stage,UEFA
+545,WC-2018,2018 FIFA Men's World Cup,T-22,Denmark,DNK,4,14,2,round of 16,UEFA
+602,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,3,14,1,group stage,UEFA
+328,WC-1999,1999 FIFA Women's World Cup,T-32,Ghana,GHA,3,11.2,1,group stage,CAF
+377,WC-2003,2003 FIFA Women's World Cup,T-32,Ghana,GHA,3,11.2,1,group stage,CAF
+397,WC-2006,2006 FIFA Men's World Cup,T-32,Ghana,GHA,4,11.2,2,round of 16,CAF
+426,WC-2007,2007 FIFA Women's World Cup,T-32,Ghana,GHA,3,11.2,1,group stage,CAF
+444,WC-2010,2010 FIFA Men's World Cup,T-32,Ghana,GHA,5,11.2,3,quarter-finals,CAF
+497,WC-2014,2014 FIFA Men's World Cup,T-32,Ghana,GHA,3,11.2,1,group stage,CAF
+607,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,3,11.2,1,group stage,CAF
+230,WC-1990,1990 FIFA Men's World Cup,T-60,Republic of Ireland,IRL,5,15,3,quarter-finals,UEFA
+269,WC-1994,1994 FIFA Men's World Cup,T-60,Republic of Ireland,IRL,4,15,2,round of 16,UEFA
+357,WC-2002,2002 FIFA Men's World Cup,T-60,Republic of Ireland,IRL,4,15,2,round of 16,UEFA
+7,WC-1930,1930 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+50,WC-1950,1950 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+66,WC-1954,1954 FIFA Men's World Cup,T-46,Mexico,MEX,2,9.55,1,group stage,CONCACAF
+81,WC-1958,1958 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+99,WC-1962,1962 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+114,WC-1966,1966 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+130,WC-1970,1970 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,3,quarter-finals,CONCACAF
+161,WC-1978,1978 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+206,WC-1986,1986 FIFA Men's World Cup,T-46,Mexico,MEX,5,9.55,3,quarter-finals,CONCACAF
+264,WC-1994,1994 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+307,WC-1998,1998 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+331,WC-1999,1999 FIFA Women's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+352,WC-2002,2002 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+402,WC-2006,2006 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+450,WC-2010,2010 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+475,WC-2011,2011 FIFA Women's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+504,WC-2014,2014 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+527,WC-2015,2015 FIFA Women's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+553,WC-2018,2018 FIFA Men's World Cup,T-46,Mexico,MEX,4,9.55,2,round of 16,CONCACAF
+610,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,3,9.55,1,group stage,CONCACAF
+82,WC-1958,1958 FIFA Men's World Cup,T-52,Northern Ireland,NIR,5,16,3,quarter-finals,UEFA
+186,WC-1982,1982 FIFA Men's World Cup,T-52,Northern Ireland,NIR,5,16,1,second group stage,UEFA
+208,WC-1986,1986 FIFA Men's World Cup,T-52,Northern Ireland,NIR,3,16,1,group stage,UEFA
+9,WC-1930,1930 FIFA Men's World Cup,T-56,Peru,PER,2,4.125,1,group stage,CONMEBOL
+132,WC-1970,1970 FIFA Men's World Cup,T-56,Peru,PER,4,4.125,3,quarter-finals,CONMEBOL
+163,WC-1978,1978 FIFA Men's World Cup,T-56,Peru,PER,6,4.125,1,second group stage,CONMEBOL
+187,WC-1982,1982 FIFA Men's World Cup,T-56,Peru,PER,3,4.125,1,group stage,CONMEBOL
+557,WC-2018,2018 FIFA Men's World Cup,T-56,Peru,PER,3,4.125,1,group stage,CONMEBOL
+115,WC-1966,1966 FIFA Men's World Cup,T-51,North Korea,PRK,4,9.65,3,quarter-finals,AFC
+333,WC-1999,1999 FIFA Women's World Cup,T-51,North Korea,PRK,3,9.65,1,group stage,AFC
+380,WC-2003,2003 FIFA Women's World Cup,T-51,North Korea,PRK,3,9.65,1,group stage,AFC
+430,WC-2007,2007 FIFA Women's World Cup,T-51,North Korea,PRK,4,9.65,3,quarter-final,AFC
+454,WC-2010,2010 FIFA Men's World Cup,T-51,North Korea,PRK,3,9.65,1,group stage,AFC
+478,WC-2011,2011 FIFA Women's World Cup,T-51,North Korea,PRK,3,9.65,1,group stage,AFC
+8,WC-1930,1930 FIFA Men's World Cup,T-55,Paraguay,PRY,2,5,1,group stage,CONMEBOL
+51,WC-1950,1950 FIFA Men's World Cup,T-55,Paraguay,PRY,2,5,1,group stage,CONMEBOL
+83,WC-1958,1958 FIFA Men's World Cup,T-55,Paraguay,PRY,3,5,1,group stage,CONMEBOL
+209,WC-1986,1986 FIFA Men's World Cup,T-55,Paraguay,PRY,4,5,2,round of 16,CONMEBOL
+312,WC-1998,1998 FIFA Men's World Cup,T-55,Paraguay,PRY,4,5,2,round of 16,CONMEBOL
+354,WC-2002,2002 FIFA Men's World Cup,T-55,Paraguay,PRY,4,5,2,round of 16,CONMEBOL
+404,WC-2006,2006 FIFA Men's World Cup,T-55,Paraguay,PRY,3,5,1,group stage,CONMEBOL
+455,WC-2010,2010 FIFA Men's World Cup,T-55,Paraguay,PRY,5,5,3,quarter-finals,CONMEBOL
+10,WC-1930,1930 FIFA Men's World Cup,T-61,Romania,ROU,2,17,1,group stage,UEFA
+25,WC-1934,1934 FIFA Men's World Cup,T-61,Romania,ROU,1,17,2,round of 16,UEFA
+42,WC-1938,1938 FIFA Men's World Cup,T-61,Romania,ROU,2,17,2,round of 16,UEFA
+133,WC-1970,1970 FIFA Men's World Cup,T-61,Romania,ROU,3,17,1,group stage,UEFA
+231,WC-1990,1990 FIFA Men's World Cup,T-61,Romania,ROU,4,17,2,round of 16,UEFA
+270,WC-1994,1994 FIFA Men's World Cup,T-61,Romania,ROU,5,17,3,quarter-finals,UEFA
+313,WC-1998,1998 FIFA Men's World Cup,T-61,Romania,ROU,4,17,2,round of 16,UEFA
+271,WC-1994,1994 FIFA Men's World Cup,T-62,Russia,RUS,3,18,1,group stage,UEFA
+335,WC-1999,1999 FIFA Women's World Cup,T-62,Russia,RUS,4,18,3,quarter-final,UEFA
+358,WC-2002,2002 FIFA Men's World Cup,T-62,Russia,RUS,3,18,1,group stage,UEFA
+382,WC-2003,2003 FIFA Women's World Cup,T-62,Russia,RUS,4,18,3,quarter-final,UEFA
+508,WC-2014,2014 FIFA Men's World Cup,T-62,Russia,RUS,3,18,1,group stage,UEFA
+560,WC-2018,2018 FIFA Men's World Cup,T-62,Russia,RUS,5,18,3,quarter-finals,UEFA
+360,WC-2002,2002 FIFA Men's World Cup,T-65,Senegal,SEN,5,12.25,3,quarter-finals,CAF
+562,WC-2018,2018 FIFA Men's World Cup,T-65,Senegal,SEN,3,12.25,1,group stage,CAF
+617,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,4,12.25,2,round of 16,CAF
+416,WC-2006,2006 FIFA Men's World Cup,T-81,Ukraine,UKR,5,19,3,quarter-finals,UEFA
+87,WC-1958,1958 FIFA Men's World Cup,T-85,Wales,WAL,5,20,3,quarter-finals,UEFA
+625,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,3,20,1,group stage,UEFA
+15,WC-1934,1934 FIFA Men's World Cup,T-05,Austria,AUT,4,21,4,third-place match,UEFA
+58,WC-1954,1954 FIFA Men's World Cup,T-05,Austria,AUT,5,21,4,third-place match,UEFA
+75,WC-1958,1958 FIFA Men's World Cup,T-05,Austria,AUT,3,21,1,group stage,UEFA
+155,WC-1978,1978 FIFA Men's World Cup,T-05,Austria,AUT,6,21,1,second group stage,UEFA
+172,WC-1982,1982 FIFA Men's World Cup,T-05,Austria,AUT,5,21,1,second group stage,UEFA
+219,WC-1990,1990 FIFA Men's World Cup,T-05,Austria,AUT,3,21,1,group stage,UEFA
+291,WC-1998,1998 FIFA Men's World Cup,T-05,Austria,AUT,3,21,1,group stage,UEFA
+2,WC-1930,1930 FIFA Men's World Cup,T-06,Belgium,BEL,2,22,1,group stage,UEFA
+16,WC-1934,1934 FIFA Men's World Cup,T-06,Belgium,BEL,1,22,2,round of 16,UEFA
+30,WC-1938,1938 FIFA Men's World Cup,T-06,Belgium,BEL,1,22,2,round of 16,UEFA
+59,WC-1954,1954 FIFA Men's World Cup,T-06,Belgium,BEL,2,22,1,group stage,UEFA
+122,WC-1970,1970 FIFA Men's World Cup,T-06,Belgium,BEL,3,22,1,group stage,UEFA
+173,WC-1982,1982 FIFA Men's World Cup,T-06,Belgium,BEL,5,22,1,second group stage,UEFA
+196,WC-1986,1986 FIFA Men's World Cup,T-06,Belgium,BEL,7,22,4,third-place match,UEFA
+220,WC-1990,1990 FIFA Men's World Cup,T-06,Belgium,BEL,4,22,2,round of 16,UEFA
+255,WC-1994,1994 FIFA Men's World Cup,T-06,Belgium,BEL,4,22,2,round of 16,UEFA
+292,WC-1998,1998 FIFA Men's World Cup,T-06,Belgium,BEL,3,22,1,group stage,UEFA
+339,WC-2002,2002 FIFA Men's World Cup,T-06,Belgium,BEL,4,22,2,round of 16,UEFA
+485,WC-2014,2014 FIFA Men's World Cup,T-06,Belgium,BEL,5,22,3,quarter-finals,UEFA
+540,WC-2018,2018 FIFA Men's World Cup,T-06,Belgium,BEL,7,22,4,third-place match,UEFA
+596,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,3,22,1,group stage,UEFA
+92,WC-1962,1962 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage,UEFA
+108,WC-1966,1966 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage,UEFA
+124,WC-1970,1970 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage,UEFA
+141,WC-1974,1974 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage,UEFA
+198,WC-1986,1986 FIFA Men's World Cup,T-10,Bulgaria,BGR,4,23,2,round of 16,UEFA
+258,WC-1994,1994 FIFA Men's World Cup,T-10,Bulgaria,BGR,7,23,4,third-place match,UEFA
+294,WC-1998,1998 FIFA Men's World Cup,T-10,Bulgaria,BGR,3,23,1,group stage,UEFA
+5,WC-1930,1930 FIFA Men's World Cup,T-13,Chile,CHL,3,5.875,1,group stage,CONMEBOL
+47,WC-1950,1950 FIFA Men's World Cup,T-13,Chile,CHL,3,5.875,1,group stage,CONMEBOL
+93,WC-1962,1962 FIFA Men's World Cup,T-13,Chile,CHL,6,5.875,4,third-place match,CONMEBOL
+109,WC-1966,1966 FIFA Men's World Cup,T-13,Chile,CHL,3,5.875,1,group stage,CONMEBOL
+142,WC-1974,1974 FIFA Men's World Cup,T-13,Chile,CHL,3,5.875,1,group stage,CONMEBOL
+176,WC-1982,1982 FIFA Men's World Cup,T-13,Chile,CHL,3,5.875,1,group stage,CONMEBOL
+296,WC-1998,1998 FIFA Men's World Cup,T-13,Chile,CHL,4,5.875,2,round of 16,CONMEBOL
+439,WC-2010,2010 FIFA Men's World Cup,T-13,Chile,CHL,4,5.875,2,round of 16,CONMEBOL
+489,WC-2014,2014 FIFA Men's World Cup,T-13,Chile,CHL,4,5.875,2,round of 16,CONMEBOL
+575,WC-2019,2019 FIFA Women's World Cup,T-13,Chile,CHL,3,5.875,1,group stage,CONMEBOL
+68,WC-1954,1954 FIFA Men's World Cup,T-71,South Korea,KOR,2,10.45,1,group stage,AFC
+213,WC-1986,1986 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+233,WC-1990,1990 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+273,WC-1994,1994 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+317,WC-1998,1998 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+363,WC-2002,2002 FIFA Men's World Cup,T-71,South Korea,KOR,7,10.5,4,third-place match,AFC
+383,WC-2003,2003 FIFA Women's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+409,WC-2006,2006 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+461,WC-2010,2010 FIFA Men's World Cup,T-71,South Korea,KOR,4,10.5,2,round of 16,AFC
+509,WC-2014,2014 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+532,WC-2015,2015 FIFA Women's World Cup,T-71,South Korea,KOR,4,10.5,2,round of 16,AFC
+564,WC-2018,2018 FIFA Men's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+589,WC-2019,2019 FIFA Women's World Cup,T-71,South Korea,KOR,3,10.5,1,group stage,AFC
+619,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,4,10.5,2,round of 16,AFC
+131,WC-1970,1970 FIFA Men's World Cup,T-47,Morocco,MAR,3,13.3,1,group stage,CAF
+207,WC-1986,1986 FIFA Men's World Cup,T-47,Morocco,MAR,4,13.3,2,round of 16,CAF
+265,WC-1994,1994 FIFA Men's World Cup,T-47,Morocco,MAR,3,13.3,1,group stage,CAF
+308,WC-1998,1998 FIFA Men's World Cup,T-47,Morocco,MAR,3,13.3,1,group stage,CAF
+554,WC-2018,2018 FIFA Men's World Cup,T-47,Morocco,MAR,3,13.3,1,group stage,CAF
+611,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,7,13.3,4,third-place match,CAF
+41,WC-1938,1938 FIFA Men's World Cup,T-57,Poland,POL,1,24,2,round of 16,UEFA
+147,WC-1974,1974 FIFA Men's World Cup,T-57,Poland,POL,7,24,4,third-place match,UEFA
+164,WC-1978,1978 FIFA Men's World Cup,T-57,Poland,POL,6,24,1,second group stage,UEFA
+188,WC-1982,1982 FIFA Men's World Cup,T-57,Poland,POL,7,24,4,third-place match,UEFA
+210,WC-1986,1986 FIFA Men's World Cup,T-57,Poland,POL,4,24,2,round of 16,UEFA
+355,WC-2002,2002 FIFA Men's World Cup,T-57,Poland,POL,3,24,1,group stage,UEFA
+405,WC-2006,2006 FIFA Men's World Cup,T-57,Poland,POL,3,24,1,group stage,UEFA
+558,WC-2018,2018 FIFA Men's World Cup,T-57,Poland,POL,3,24,1,group stage,UEFA
+613,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,4,24,2,round of 16,UEFA
+116,WC-1966,1966 FIFA Men's World Cup,T-58,Portugal,PRT,6,25,4,third-place match,UEFA
+211,WC-1986,1986 FIFA Men's World Cup,T-58,Portugal,PRT,3,25,1,group stage,UEFA
+356,WC-2002,2002 FIFA Men's World Cup,T-58,Portugal,PRT,3,25,1,group stage,UEFA
+406,WC-2006,2006 FIFA Men's World Cup,T-58,Portugal,PRT,7,25,4,third-place match,UEFA
+456,WC-2010,2010 FIFA Men's World Cup,T-58,Portugal,PRT,4,25,2,round of 16,UEFA
+507,WC-2014,2014 FIFA Men's World Cup,T-58,Portugal,PRT,3,25,1,group stage,UEFA
+559,WC-2018,2018 FIFA Men's World Cup,T-58,Portugal,PRT,4,25,2,round of 16,UEFA
+614,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,5,25,3,quarter-finals,UEFA
+85,WC-1958,1958 FIFA Men's World Cup,T-72,Soviet Union,SUN,5,26,3,quarter-finals,UEFA
+100,WC-1962,1962 FIFA Men's World Cup,T-72,Soviet Union,SUN,4,26,3,quarter-finals,UEFA
+117,WC-1966,1966 FIFA Men's World Cup,T-72,Soviet Union,SUN,6,26,4,third-place match,UEFA
+134,WC-1970,1970 FIFA Men's World Cup,T-72,Soviet Union,SUN,4,26,3,quarter-finals,UEFA
+190,WC-1982,1982 FIFA Men's World Cup,T-72,Soviet Union,SUN,5,26,1,second group stage,UEFA
+214,WC-1986,1986 FIFA Men's World Cup,T-72,Soviet Union,SUN,4,26,2,round of 16,UEFA
+234,WC-1990,1990 FIFA Men's World Cup,T-72,Soviet Union,SUN,3,26,1,group stage,UEFA
+70,WC-1954,1954 FIFA Men's World Cup,T-80,Turkey,TUR,3,27,1,group stage,UEFA
+367,WC-2002,2002 FIFA Men's World Cup,T-80,Turkey,TUR,7,27,4,third-place match,UEFA
+11,WC-1930,1930 FIFA Men's World Cup,T-83,United States,USA,3,10.45,4,semi-finals,CONCACAF
+29,WC-1934,1934 FIFA Men's World Cup,T-83,United States,USA,1,10.45,2,round of 16,CONCACAF
+55,WC-1950,1950 FIFA Men's World Cup,T-83,United States,USA,3,10.45,1,group stage,CONCACAF
+238,WC-1990,1990 FIFA Men's World Cup,T-83,United States,USA,3,10.45,1,group stage,CONCACAF
+253,WC-1991,1991 FIFA Women's World Cup,T-83,United States,USA,6,10.45,5,final,CONCACAF
+277,WC-1994,1994 FIFA Men's World Cup,T-83,United States,USA,4,10.45,2,round of 16,CONCACAF
+289,WC-1995,1995 FIFA Women's World Cup,T-83,United States,USA,6,10.45,4,third-place match,CONCACAF
+320,WC-1998,1998 FIFA Men's World Cup,T-83,United States,USA,3,10.45,1,group stage,CONCACAF
+337,WC-1999,1999 FIFA Women's World Cup,T-83,United States,USA,6,10.45,5,final,CONCACAF
+368,WC-2002,2002 FIFA Men's World Cup,T-83,United States,USA,5,10.45,3,quarter-finals,CONCACAF
+385,WC-2003,2003 FIFA Women's World Cup,T-83,United States,USA,6,10.45,4,third-place match,CONCACAF
+417,WC-2006,2006 FIFA Men's World Cup,T-83,United States,USA,3,10.45,1,group stage,CONCACAF
+433,WC-2007,2007 FIFA Women's World Cup,T-83,United States,USA,6,10.45,4,third-place match,CONCACAF
+464,WC-2010,2010 FIFA Men's World Cup,T-83,United States,USA,4,10.45,2,round of 16,CONCACAF
+481,WC-2011,2011 FIFA Women's World Cup,T-83,United States,USA,6,10.45,5,final,CONCACAF
+512,WC-2014,2014 FIFA Men's World Cup,T-83,United States,USA,4,10.45,2,round of 16,CONCACAF
+537,WC-2015,2015 FIFA Women's World Cup,T-83,United States,USA,7,10.45,5,final,CONCACAF
+593,WC-2019,2019 FIFA Women's World Cup,T-83,United States,USA,7,10.45,5,final,CONCACAF
+623,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,4,10.45,2,round of 16,CONCACAF
+13,WC-1930,1930 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,4,semi-finals,UEFA
+57,WC-1950,1950 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,1,group stage,UEFA
+73,WC-1954,1954 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,3,quarter-finals,UEFA
+89,WC-1958,1958 FIFA Men's World Cup,T-87,Yugoslavia,YUG,4,28,3,quarter-finals,UEFA
+105,WC-1962,1962 FIFA Men's World Cup,T-87,Yugoslavia,YUG,6,28,4,third-place match,UEFA
+152,WC-1974,1974 FIFA Men's World Cup,T-87,Yugoslavia,YUG,6,28,1,second group stage,UEFA
+193,WC-1982,1982 FIFA Men's World Cup,T-87,Yugoslavia,YUG,3,28,1,group stage,UEFA
+241,WC-1990,1990 FIFA Men's World Cup,T-87,Yugoslavia,YUG,5,28,3,quarter-finals,UEFA
+321,WC-1998,1998 FIFA Men's World Cup,T-87,Yugoslavia,YUG,4,28,2,round of 16,UEFA
+18,WC-1934,1934 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,4,29,5,final,UEFA
+33,WC-1938,1938 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,3,29,3,quarter-finals,UEFA
+61,WC-1954,1954 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,2,29,1,group stage,UEFA
+77,WC-1958,1958 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,4,29,1,group stage,UEFA
+95,WC-1962,1962 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,6,29,5,final,UEFA
+125,WC-1970,1970 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,3,29,1,group stage,UEFA
+177,WC-1982,1982 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,3,29,1,group stage,UEFA
+225,WC-1990,1990 FIFA Men's World Cup,T-21,Czechoslovakia,CSK,5,29,3,quarter-finals,UEFA
+298,WC-1998,1998 FIFA Men's World Cup,T-18,Croatia,HRV,7,30,4,third-place match,UEFA
+344,WC-2002,2002 FIFA Men's World Cup,T-18,Croatia,HRV,3,30,1,group stage,UEFA
+391,WC-2006,2006 FIFA Men's World Cup,T-18,Croatia,HRV,3,30,1,group stage,UEFA
+492,WC-2014,2014 FIFA Men's World Cup,T-18,Croatia,HRV,3,30,1,group stage,UEFA
+544,WC-2018,2018 FIFA Men's World Cup,T-18,Croatia,HRV,7,30,5,final,UEFA
+601,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,7,30,4,third-place match,UEFA
+22,WC-1934,1934 FIFA Men's World Cup,T-36,Hungary,HUN,2,31,3,quarter-finals,UEFA
+37,WC-1938,1938 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,5,final,UEFA
+64,WC-1954,1954 FIFA Men's World Cup,T-36,Hungary,HUN,5,31,5,final,UEFA
+80,WC-1958,1958 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,1,group stage,UEFA
+97,WC-1962,1962 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,3,quarter-finals,UEFA
+112,WC-1966,1966 FIFA Men's World Cup,T-36,Hungary,HUN,4,31,3,quarter-finals,UEFA
+158,WC-1978,1978 FIFA Men's World Cup,T-36,Hungary,HUN,3,31,1,group stage,UEFA
+182,WC-1982,1982 FIFA Men's World Cup,T-36,Hungary,HUN,3,31,1,group stage,UEFA
+203,WC-1986,1986 FIFA Men's World Cup,T-36,Hungary,HUN,3,31,1,group stage,UEFA
+24,WC-1934,1934 FIFA Men's World Cup,T-48,Netherlands,NLD,1,32,2,round of 16,UEFA
+39,WC-1938,1938 FIFA Men's World Cup,T-48,Netherlands,NLD,1,32,2,round of 16,UEFA
+146,WC-1974,1974 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,5,final,UEFA
+162,WC-1978,1978 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,5,final,UEFA
+229,WC-1990,1990 FIFA Men's World Cup,T-48,Netherlands,NLD,4,32,2,round of 16,UEFA
+266,WC-1994,1994 FIFA Men's World Cup,T-48,Netherlands,NLD,5,32,3,quarter-finals,UEFA
+309,WC-1998,1998 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,4,third-place match,UEFA
+403,WC-2006,2006 FIFA Men's World Cup,T-48,Netherlands,NLD,4,32,2,round of 16,UEFA
+451,WC-2010,2010 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,5,final,UEFA
+505,WC-2014,2014 FIFA Men's World Cup,T-48,Netherlands,NLD,7,32,4,third-place match,UEFA
+528,WC-2015,2015 FIFA Women's World Cup,T-48,Netherlands,NLD,4,32,2,round of 16,UEFA
+583,WC-2019,2019 FIFA Women's World Cup,T-48,Netherlands,NLD,7,32,5,final,UEFA
+612,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,5,32,3,quarter-finals,UEFA
+27,WC-1934,1934 FIFA Men's World Cup,T-74,Sweden,SWE,2,33,3,quarter-finals,UEFA
+43,WC-1938,1938 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,4,third-place match,UEFA
+53,WC-1950,1950 FIFA Men's World Cup,T-74,Sweden,SWE,5,33,5,final round,UEFA
+86,WC-1958,1958 FIFA Men's World Cup,T-74,Sweden,SWE,6,33,5,final,UEFA
+135,WC-1970,1970 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,1,group stage,UEFA
+149,WC-1974,1974 FIFA Men's World Cup,T-74,Sweden,SWE,6,33,1,second group stage,UEFA
+167,WC-1978,1978 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,1,group stage,UEFA
+236,WC-1990,1990 FIFA Men's World Cup,T-74,Sweden,SWE,3,33,1,group stage,UEFA
+252,WC-1991,1991 FIFA Women's World Cup,T-74,Sweden,SWE,6,33,4,third-place match,UEFA
+275,WC-1994,1994 FIFA Men's World Cup,T-74,Sweden,SWE,7,33,4,third-place match,UEFA
+288,WC-1995,1995 FIFA Women's World Cup,T-74,Sweden,SWE,4,33,3,quarter-final,UEFA
+336,WC-1999,1999 FIFA Women's World Cup,T-74,Sweden,SWE,4,33,3,quarter-final,UEFA
+365,WC-2002,2002 FIFA Men's World Cup,T-74,Sweden,SWE,4,33,2,round of 16,UEFA
+384,WC-2003,2003 FIFA Women's World Cup,T-74,Sweden,SWE,6,33,5,final,UEFA
+411,WC-2006,2006 FIFA Men's World Cup,T-74,Sweden,SWE,4,33,2,round of 16,UEFA
+432,WC-2007,2007 FIFA Women's World Cup,T-74,Sweden,SWE,3,33,1,group stage,UEFA
+480,WC-2011,2011 FIFA Women's World Cup,T-74,Sweden,SWE,6,33,4,third-place match,UEFA
+534,WC-2015,2015 FIFA Women's World Cup,T-74,Sweden,SWE,4,33,2,round of 16,UEFA
+566,WC-2018,2018 FIFA Men's World Cup,T-74,Sweden,SWE,5,33,3,quarter-finals,UEFA
+591,WC-2019,2019 FIFA Women's World Cup,T-74,Sweden,SWE,7,33,4,third-place match,UEFA
+1,WC-1930,1930 FIFA Men's World Cup,T-03,Argentina,ARG,5,6.725,5,final,CONMEBOL
+14,WC-1934,1934 FIFA Men's World Cup,T-03,Argentina,ARG,1,6.725,2,round of 16,CONMEBOL
+74,WC-1958,1958 FIFA Men's World Cup,T-03,Argentina,ARG,3,6.725,1,group stage,CONMEBOL
+90,WC-1962,1962 FIFA Men's World Cup,T-03,Argentina,ARG,3,6.725,1,group stage,CONMEBOL
+106,WC-1966,1966 FIFA Men's World Cup,T-03,Argentina,ARG,4,6.725,3,quarter-finals,CONMEBOL
+138,WC-1974,1974 FIFA Men's World Cup,T-03,Argentina,ARG,6,6.725,1,second group stage,CONMEBOL
+154,WC-1978,1978 FIFA Men's World Cup,T-03,Argentina,ARG,7,6.725,5,final,CONMEBOL
+171,WC-1982,1982 FIFA Men's World Cup,T-03,Argentina,ARG,5,6.725,1,second group stage,CONMEBOL
+195,WC-1986,1986 FIFA Men's World Cup,T-03,Argentina,ARG,7,6.725,5,final,CONMEBOL
+218,WC-1990,1990 FIFA Men's World Cup,T-03,Argentina,ARG,7,6.725,5,final,CONMEBOL
+254,WC-1994,1994 FIFA Men's World Cup,T-03,Argentina,ARG,4,6.725,2,round of 16,CONMEBOL
+290,WC-1998,1998 FIFA Men's World Cup,T-03,Argentina,ARG,5,6.725,3,quarter-finals,CONMEBOL
+338,WC-2002,2002 FIFA Men's World Cup,T-03,Argentina,ARG,3,6.725,1,group stage,CONMEBOL
+370,WC-2003,2003 FIFA Women's World Cup,T-03,Argentina,ARG,3,6.725,1,group stage,CONMEBOL
+387,WC-2006,2006 FIFA Men's World Cup,T-03,Argentina,ARG,5,6.725,3,quarter-finals,CONMEBOL
+418,WC-2007,2007 FIFA Women's World Cup,T-03,Argentina,ARG,3,6.725,1,group stage,CONMEBOL
+435,WC-2010,2010 FIFA Men's World Cup,T-03,Argentina,ARG,5,6.725,3,quarter-finals,CONMEBOL
+483,WC-2014,2014 FIFA Men's World Cup,T-03,Argentina,ARG,7,6.725,5,final,CONMEBOL
+538,WC-2018,2018 FIFA Men's World Cup,T-03,Argentina,ARG,4,6.725,2,round of 16,CONMEBOL
+570,WC-2019,2019 FIFA Women's World Cup,T-03,Argentina,ARG,3,6.725,1,group stage,CONMEBOL
+594,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,7,6.725,5,final,CONMEBOL
+4,WC-1930,1930 FIFA Men's World Cup,T-09,Brazil,BRA,2,7.6,1,group stage,CONMEBOL
+17,WC-1934,1934 FIFA Men's World Cup,T-09,Brazil,BRA,1,7.6,2,round of 16,CONMEBOL
+31,WC-1938,1938 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,4,third-place match,CONMEBOL
+46,WC-1950,1950 FIFA Men's World Cup,T-09,Brazil,BRA,6,7.6,5,final round,CONMEBOL
+60,WC-1954,1954 FIFA Men's World Cup,T-09,Brazil,BRA,3,7.6,3,quarter-finals,CONMEBOL
+76,WC-1958,1958 FIFA Men's World Cup,T-09,Brazil,BRA,6,7.6,5,final,CONMEBOL
+91,WC-1962,1962 FIFA Men's World Cup,T-09,Brazil,BRA,6,7.6,5,final,CONMEBOL
+107,WC-1966,1966 FIFA Men's World Cup,T-09,Brazil,BRA,3,7.6,1,group stage,CONMEBOL
+123,WC-1970,1970 FIFA Men's World Cup,T-09,Brazil,BRA,6,7.6,5,final,CONMEBOL
+140,WC-1974,1974 FIFA Men's World Cup,T-09,Brazil,BRA,7,7.6,4,third-place match,CONMEBOL
+156,WC-1978,1978 FIFA Men's World Cup,T-09,Brazil,BRA,7,7.6,4,third-place match,CONMEBOL
+174,WC-1982,1982 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,1,second group stage,CONMEBOL
+197,WC-1986,1986 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,3,quarter-finals,CONMEBOL
+221,WC-1990,1990 FIFA Men's World Cup,T-09,Brazil,BRA,4,7.6,2,round of 16,CONMEBOL
+242,WC-1991,1991 FIFA Women's World Cup,T-09,Brazil,BRA,3,7.6,1,group stage,CONMEBOL
+257,WC-1994,1994 FIFA Men's World Cup,T-09,Brazil,BRA,7,7.6,5,final,CONMEBOL
+279,WC-1995,1995 FIFA Women's World Cup,T-09,Brazil,BRA,3,7.6,1,group stage,CONMEBOL
+293,WC-1998,1998 FIFA Men's World Cup,T-09,Brazil,BRA,7,7.6,5,final,CONMEBOL
+323,WC-1999,1999 FIFA Women's World Cup,T-09,Brazil,BRA,6,7.6,4,third-place match,CONMEBOL
+340,WC-2002,2002 FIFA Men's World Cup,T-09,Brazil,BRA,7,7.6,5,final,CONMEBOL
+372,WC-2003,2003 FIFA Women's World Cup,T-09,Brazil,BRA,4,7.6,3,quarter-final,CONMEBOL
+389,WC-2006,2006 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,3,quarter-finals,CONMEBOL
+420,WC-2007,2007 FIFA Women's World Cup,T-09,Brazil,BRA,6,7.6,5,final,CONMEBOL
+437,WC-2010,2010 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,3,quarter-finals,CONMEBOL
+467,WC-2011,2011 FIFA Women's World Cup,T-09,Brazil,BRA,4,7.6,3,quarter-final,CONMEBOL
+487,WC-2014,2014 FIFA Men's World Cup,T-09,Brazil,BRA,7,7.6,4,third-place match,CONMEBOL
+515,WC-2015,2015 FIFA Women's World Cup,T-09,Brazil,BRA,4,7.6,2,round of 16,CONMEBOL
+541,WC-2018,2018 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,3,quarter-finals,CONMEBOL
+572,WC-2019,2019 FIFA Women's World Cup,T-09,Brazil,BRA,4,7.6,2,round of 16,CONMEBOL
+597,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,5,7.6,3,quarter-finals,CONMEBOL
+21,WC-1934,1934 FIFA Men's World Cup,T-31,Germany,DEU,4,34,4,third-place match,UEFA
+36,WC-1938,1938 FIFA Men's World Cup,T-31,Germany,DEU,2,34,2,round of 16,UEFA
+246,WC-1991,1991 FIFA Women's World Cup,T-31,Germany,DEU,6,34,4,third-place match,UEFA
+261,WC-1994,1994 FIFA Men's World Cup,T-31,Germany,DEU,5,34,3,quarter-finals,UEFA
+284,WC-1995,1995 FIFA Women's World Cup,T-31,Germany,DEU,6,34,5,final,UEFA
+302,WC-1998,1998 FIFA Men's World Cup,T-31,Germany,DEU,5,34,3,quarter-finals,UEFA
+327,WC-1999,1999 FIFA Women's World Cup,T-31,Germany,DEU,4,34,3,quarter-final,UEFA
+349,WC-2002,2002 FIFA Men's World Cup,T-31,Germany,DEU,7,34,5,final,UEFA
+376,WC-2003,2003 FIFA Women's World Cup,T-31,Germany,DEU,6,34,5,final,UEFA
+396,WC-2006,2006 FIFA Men's World Cup,T-31,Germany,DEU,7,34,4,third-place match,UEFA
+425,WC-2007,2007 FIFA Women's World Cup,T-31,Germany,DEU,6,34,5,final,UEFA
+443,WC-2010,2010 FIFA Men's World Cup,T-31,Germany,DEU,7,34,4,third-place match,UEFA
+473,WC-2011,2011 FIFA Women's World Cup,T-31,Germany,DEU,4,34,3,quarter-final,UEFA
+496,WC-2014,2014 FIFA Men's World Cup,T-31,Germany,DEU,7,34,5,final,UEFA
+524,WC-2015,2015 FIFA Women's World Cup,T-31,Germany,DEU,7,34,4,third-place match,UEFA
+549,WC-2018,2018 FIFA Men's World Cup,T-31,Germany,DEU,3,34,1,group stage,UEFA
+579,WC-2019,2019 FIFA Women's World Cup,T-31,Germany,DEU,5,34,3,quarter-final,UEFA
+606,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,3,34,1,group stage,UEFA
+72,WC-1954,1954 FIFA Men's World Cup,T-86,West Germany,DDW,6,35,5,final,UEFA
+88,WC-1958,1958 FIFA Men's World Cup,T-86,West Germany,DDW,6,35,4,third-place match,UEFA
+104,WC-1962,1962 FIFA Men's World Cup,T-86,West Germany,DDW,4,35,3,quarter-finals,UEFA
+121,WC-1966,1966 FIFA Men's World Cup,T-86,West Germany,DDW,6,35,5,final,UEFA
+137,WC-1970,1970 FIFA Men's World Cup,T-86,West Germany,DDW,6,35,4,third-place match,UEFA
+151,WC-1974,1974 FIFA Men's World Cup,T-86,West Germany,DDW,7,35,5,final,UEFA
+169,WC-1978,1978 FIFA Men's World Cup,T-86,West Germany,DDW,6,35,1,second group stage,UEFA
+192,WC-1982,1982 FIFA Men's World Cup,T-86,West Germany,DDW,7,35,5,final,UEFA
+217,WC-1986,1986 FIFA Men's World Cup,T-86,West Germany,DDW,7,35,5,final,UEFA
+240,WC-1990,1990 FIFA Men's World Cup,T-86,West Germany,DDW,7,35,5,final,UEFA
+48,WC-1950,1950 FIFA Men's World Cup,T-28,England,ENG,3,36,1,group stage,UEFA
+62,WC-1954,1954 FIFA Men's World Cup,T-28,England,ENG,3,36,3,quarter-finals,UEFA
+78,WC-1958,1958 FIFA Men's World Cup,T-28,England,ENG,4,36,1,group stage,UEFA
+96,WC-1962,1962 FIFA Men's World Cup,T-28,England,ENG,4,36,3,quarter-finals,UEFA
+110,WC-1966,1966 FIFA Men's World Cup,T-28,England,ENG,6,36,5,final,UEFA
+127,WC-1970,1970 FIFA Men's World Cup,T-28,England,ENG,4,36,3,quarter-finals,UEFA
+179,WC-1982,1982 FIFA Men's World Cup,T-28,England,ENG,5,36,1,second group stage,UEFA
+201,WC-1986,1986 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals,UEFA
+227,WC-1990,1990 FIFA Men's World Cup,T-28,England,ENG,7,36,4,third-place match,UEFA
+283,WC-1995,1995 FIFA Women's World Cup,T-28,England,ENG,4,36,3,quarter-final,UEFA
+300,WC-1998,1998 FIFA Men's World Cup,T-28,England,ENG,4,36,2,round of 16,UEFA
+347,WC-2002,2002 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals,UEFA
+394,WC-2006,2006 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals,UEFA
+424,WC-2007,2007 FIFA Women's World Cup,T-28,England,ENG,4,36,3,quarter-final,UEFA
+441,WC-2010,2010 FIFA Men's World Cup,T-28,England,ENG,4,36,2,round of 16,UEFA
+470,WC-2011,2011 FIFA Women's World Cup,T-28,England,ENG,4,36,3,quarter-final,UEFA
+494,WC-2014,2014 FIFA Men's World Cup,T-28,England,ENG,3,36,1,group stage,UEFA
+522,WC-2015,2015 FIFA Women's World Cup,T-28,England,ENG,7,36,4,third-place match,UEFA
+547,WC-2018,2018 FIFA Men's World Cup,T-28,England,ENG,7,36,4,third-place match,UEFA
+577,WC-2019,2019 FIFA Women's World Cup,T-28,England,ENG,7,36,4,third-place match,UEFA
+604,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,5,36,3,quarter-finals,UEFA
+26,WC-1934,1934 FIFA Men's World Cup,T-73,Spain,ESP,3,37,3,quarter-finals,UEFA
+52,WC-1950,1950 FIFA Men's World Cup,T-73,Spain,ESP,6,37,5,final round,UEFA
+101,WC-1962,1962 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage,UEFA
+118,WC-1966,1966 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage,UEFA
+166,WC-1978,1978 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage,UEFA
+191,WC-1982,1982 FIFA Men's World Cup,T-73,Spain,ESP,5,37,1,second group stage,UEFA
+215,WC-1986,1986 FIFA Men's World Cup,T-73,Spain,ESP,5,37,3,quarter-finals,UEFA
+235,WC-1990,1990 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16,UEFA
+274,WC-1994,1994 FIFA Men's World Cup,T-73,Spain,ESP,5,37,3,quarter-finals,UEFA
+318,WC-1998,1998 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage,UEFA
+364,WC-2002,2002 FIFA Men's World Cup,T-73,Spain,ESP,5,37,3,quarter-finals,UEFA
+410,WC-2006,2006 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16,UEFA
+462,WC-2010,2010 FIFA Men's World Cup,T-73,Spain,ESP,7,37,5,final,UEFA
+510,WC-2014,2014 FIFA Men's World Cup,T-73,Spain,ESP,3,37,1,group stage,UEFA
+533,WC-2015,2015 FIFA Women's World Cup,T-73,Spain,ESP,3,37,1,group stage,UEFA
+565,WC-2018,2018 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16,UEFA
+590,WC-2019,2019 FIFA Women's World Cup,T-73,Spain,ESP,4,37,2,round of 16,UEFA
+620,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,4,37,2,round of 16,UEFA
+6,WC-1930,1930 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage,UEFA
+20,WC-1934,1934 FIFA Men's World Cup,T-30,France,FRA,1,38,2,round of 16,UEFA
+35,WC-1938,1938 FIFA Men's World Cup,T-30,France,FRA,2,38,3,quarter-finals,UEFA
+63,WC-1954,1954 FIFA Men's World Cup,T-30,France,FRA,2,38,1,group stage,UEFA
+79,WC-1958,1958 FIFA Men's World Cup,T-30,France,FRA,6,38,4,third-place match,UEFA
+111,WC-1966,1966 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage,UEFA
+157,WC-1978,1978 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage,UEFA
+180,WC-1982,1982 FIFA Men's World Cup,T-30,France,FRA,7,38,4,third-place match,UEFA
+202,WC-1986,1986 FIFA Men's World Cup,T-30,France,FRA,7,38,4,third-place match,UEFA
+301,WC-1998,1998 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final,UEFA
+348,WC-2002,2002 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage,UEFA
+375,WC-2003,2003 FIFA Women's World Cup,T-30,France,FRA,3,38,1,group stage,UEFA
+395,WC-2006,2006 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final,UEFA
+442,WC-2010,2010 FIFA Men's World Cup,T-30,France,FRA,3,38,1,group stage,UEFA
+472,WC-2011,2011 FIFA Women's World Cup,T-30,France,FRA,6,38,4,third-place match,UEFA
+495,WC-2014,2014 FIFA Men's World Cup,T-30,France,FRA,5,38,3,quarter-finals,UEFA
+523,WC-2015,2015 FIFA Women's World Cup,T-30,France,FRA,5,38,3,quarter-final,UEFA
+548,WC-2018,2018 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final,UEFA
+578,WC-2019,2019 FIFA Women's World Cup,T-30,France,FRA,5,38,3,quarter-final,UEFA
+605,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,7,38,5,final,UEFA
+23,WC-1934,1934 FIFA Men's World Cup,T-41,Italy,ITA,5,39,5,final,UEFA
+38,WC-1938,1938 FIFA Men's World Cup,T-41,Italy,ITA,4,39,5,final,UEFA
+49,WC-1950,1950 FIFA Men's World Cup,T-41,Italy,ITA,2,39,1,group stage,UEFA
+65,WC-1954,1954 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+98,WC-1962,1962 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+113,WC-1966,1966 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+129,WC-1970,1970 FIFA Men's World Cup,T-41,Italy,ITA,6,39,5,final,UEFA
+145,WC-1974,1974 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+160,WC-1978,1978 FIFA Men's World Cup,T-41,Italy,ITA,7,39,4,third-place match,UEFA
+183,WC-1982,1982 FIFA Men's World Cup,T-41,Italy,ITA,7,39,5,final,UEFA
+205,WC-1986,1986 FIFA Men's World Cup,T-41,Italy,ITA,4,39,2,round of 16,UEFA
+228,WC-1990,1990 FIFA Men's World Cup,T-41,Italy,ITA,7,39,4,third-place match,UEFA
+247,WC-1991,1991 FIFA Women's World Cup,T-41,Italy,ITA,4,39,3,quarter-final,UEFA
+263,WC-1994,1994 FIFA Men's World Cup,T-41,Italy,ITA,7,39,5,final,UEFA
+304,WC-1998,1998 FIFA Men's World Cup,T-41,Italy,ITA,5,39,3,quarter-finals,UEFA
+329,WC-1999,1999 FIFA Women's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+350,WC-2002,2002 FIFA Men's World Cup,T-41,Italy,ITA,4,39,2,round of 16,UEFA
+399,WC-2006,2006 FIFA Men's World Cup,T-41,Italy,ITA,7,39,5,final,UEFA
+447,WC-2010,2010 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+501,WC-2014,2014 FIFA Men's World Cup,T-41,Italy,ITA,3,39,1,group stage,UEFA
+580,WC-2019,2019 FIFA Women's World Cup,T-41,Italy,ITA,5,39,3,quarter-final,UEFA
+12,WC-1930,1930 FIFA Men's World Cup,T-84,Uruguay,URY,4,8.45,5,final,CONMEBOL
+56,WC-1950,1950 FIFA Men's World Cup,T-84,Uruguay,URY,4,8.45,5,final round,CONMEBOL
+71,WC-1954,1954 FIFA Men's World Cup,T-84,Uruguay,URY,5,8.45,4,third-place match,CONMEBOL
+103,WC-1962,1962 FIFA Men's World Cup,T-84,Uruguay,URY,3,8.45,1,group stage,CONMEBOL
+120,WC-1966,1966 FIFA Men's World Cup,T-84,Uruguay,URY,4,8.45,3,quarter-finals,CONMEBOL
+136,WC-1970,1970 FIFA Men's World Cup,T-84,Uruguay,URY,6,8.45,4,third-place match,CONMEBOL
+150,WC-1974,1974 FIFA Men's World Cup,T-84,Uruguay,URY,3,8.45,1,group stage,CONMEBOL
+216,WC-1986,1986 FIFA Men's World Cup,T-84,Uruguay,URY,4,8.45,2,round of 16,CONMEBOL
+239,WC-1990,1990 FIFA Men's World Cup,T-84,Uruguay,URY,4,8.45,2,round of 16,CONMEBOL
+369,WC-2002,2002 FIFA Men's World Cup,T-84,Uruguay,URY,3,8.45,1,group stage,CONMEBOL
+465,WC-2010,2010 FIFA Men's World Cup,T-84,Uruguay,URY,7,8.45,4,third-place match,CONMEBOL
+513,WC-2014,2014 FIFA Men's World Cup,T-84,Uruguay,URY,4,8.45,2,round of 16,CONMEBOL
+569,WC-2018,2018 FIFA Men's World Cup,T-84,Uruguay,URY,5,8.45,3,quarter-finals,CONMEBOL
+624,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,3,8.45,1,group stage,CONMEBOL
+471,WC-2011,2011 FIFA Women's World Cup,T-29,Equatorial Guinea,GNQ,3,99,1,group stage,CAF
+536,WC-2015,2015 FIFA Women's World Cup,T-76,Thailand,THA,3,99,1,group stage,AFC
+592,WC-2019,2019 FIFA Women's World Cup,T-76,Thailand,THA,3,99,1,group stage,AFC
+244,WC-1991,1991 FIFA Women's World Cup,T-15,Chinese Taipei,TWN,4,99,3,quarter-final,AFC
